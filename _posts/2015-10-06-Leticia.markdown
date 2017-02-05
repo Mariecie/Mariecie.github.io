@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Let&iuml;cia"
+date:   2015-10-06 15:39:40
+preview: https://www.dropbox.com/s/lpxxpp4rkbx75wi/L%C3%A9t%C3%AFcia_nuit_2015.jpg?raw=1
+---
+
+![Picture 1](https://www.dropbox.com/s/lpxxpp4rkbx75wi/L%C3%A9t%C3%AFcia_nuit_2015.jpg?raw=1)
+
+<span style="font-style: italic;">L&eacute;t&iuml;cia</span>   / visuel de jour de nuit / divers mat&eacute;riaux de construction / dimension variable / 2015
+
+![Picture 2] (https://www.dropbox.com/s/np6n4ph2g76hxdf/L%C3%A9t%C3%AFcia_d%C3%A9tail_jour_2015.jpg?raw=1)
