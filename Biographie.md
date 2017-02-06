@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Biographie
+permalink: /biographie/
 ---
 
 Fran&ccedil;ois Dufeil, n&eacute; en 1987 &agrave; Rennes, vit et travaille &agrave; Paris.
@@ -26,4 +26,8 @@ Mon approche consiste &agrave; m&#39;impr&eacute;gner et pr&eacute;lever des fra
 <p style="text-align:justify">
 Mes objets et instruments tentent de remettre en cause le cloisonnement, le contr&ocirc;le, la rationalit&eacute; et le fonctionnalisme dans la production d&#39;espace architectonique.
 Ces recherches dans le paysage urbanis&eacute;g&eacute;n&egrave;rent des propositions sous forme d&#39;installation et de sculpture, tant&ocirc;t dans un monde utopique, tant&ocirc;t dans une r&eacute;alit&eacute; dystopique.
+</p>
+
+<p style="text-align:justify">
+<span style="font-weight: bold;">T&eacute;l&eacute;charger mon CV</span> <a href="https://www.dropbox.com/s/kehynf9pvlxkhab/CV_Francois_Dufeil.pdf?raw=1">[PDF]</a>
 </p>

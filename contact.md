@@ -1,9 +1,13 @@
 ---
 layout: page
-title: contact
+title: Contact
 permalink: /Contact/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
-
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+<br> Fran&ccedil;ois DUFEIL
+<br> 16 rue Marie Curie
+<br> 93400 Saint-Ouen
+<br />
+<br> 06.32.16.86.05
+<br />
+<br> f.dufeil[a]yahoo.fr

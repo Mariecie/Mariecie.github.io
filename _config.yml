@@ -2,14 +2,16 @@
 title: Fran&ccedil;ois Dufeil
 email: f.dufeil@yahoo.fr
 description: > # this means to ignore newlines until "baseurl:"
-  Propositions artistiques de Fran&ccedil;ois Dufeil. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Propositions artistiques de Fran&ccedil;ois Dufeil. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 permalink: pretty
+
+#highlighter:      pygments
+#highlighter:      rouge
+
