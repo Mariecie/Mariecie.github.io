@@ -2,7 +2,7 @@
 layout: post
 title:  "Lieu des replis"
 date:   2015-10-07 15:39:40
-preview: https://www.dropbox.com/s/k5t7c4hvec8e0hb/Lieu_des_replis_2015_.jpg?raw=1
+preview: https://www.dropbox.com/s/vbmrjy8cdxp2my5/Lieu_des_replis_2015_preview.jpg?raw=1
 ---
 
 ![Picture 1](https://www.dropbox.com/s/k5t7c4hvec8e0hb/Lieu_des_replis_2015_.jpg?raw=1)

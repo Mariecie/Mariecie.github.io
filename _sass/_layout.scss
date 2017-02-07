@@ -17,12 +17,12 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: $spacing-unit2 0;
 }
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit2 / 2;
 }
 
 .contact-list,
@@ -32,15 +32,15 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
+    font-size: 11px;
+    color: $text-color;       
+    margin-left: -$spacing-unit2 / 2;
     @extend %clearfix;
 }
 
 .footer-col {
     float: left;
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit2 / 2;
     padding-left: $spacing-unit / 2;
 }
 

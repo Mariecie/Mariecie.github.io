@@ -2,7 +2,7 @@
 layout: post
 title:  "Let&iuml;cia"
 date:   2015-10-06 15:39:40
-preview: https://www.dropbox.com/s/lpxxpp4rkbx75wi/L%C3%A9t%C3%AFcia_nuit_2015.jpg?raw=1
+preview: https://www.dropbox.com/s/ymnb659h8o7q1wr/L%C3%A9t%C3%AFcia_nuit_2015_preview.jpg?raw=1
 ---
 
 ![Picture 1](https://www.dropbox.com/s/lpxxpp4rkbx75wi/L%C3%A9t%C3%AFcia_nuit_2015.jpg?raw=1)

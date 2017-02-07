@@ -1,8 +1,11 @@
 # Site settings
 title: Fran&ccedil;ois Dufeil
 email: f.dufeil@yahoo.fr
-description: > # this means to ignore newlines until "baseurl:"
-  Propositions artistiques de Fran&ccedil;ois Dufeil. 
+
+#># this means to ignore newlines until "baseurl:"
+
+description: Propositions artistiques de Fran&ccedil;ois Dufeil. 
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
