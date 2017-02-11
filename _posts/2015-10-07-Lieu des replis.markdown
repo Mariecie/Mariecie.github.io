@@ -7,4 +7,6 @@ preview: https://www.dropbox.com/s/vbmrjy8cdxp2my5/Lieu_des_replis_2015_preview.
 
 ![Picture 1](https://www.dropbox.com/s/k5t7c4hvec8e0hb/Lieu_des_replis_2015_.jpg?raw=1)
 
-<span style="font-style: italic;">Lieu des replis</span>   / tube acier, grillage, cam&eacute;ra factice / 2,90 x 2,90 x 2,60 m / 2015 / Maison des Arts de Malakoff (92)
+<p style="text-align:justify">
+<span style="font-style: italic;">Lieu des replis</span>   / tube acier, grillage, cam&eacute;ra factice / 2,90 x 2,90 x 2,60 m / 2015 / Maison des Arts de Malakoff (92).
+</p>

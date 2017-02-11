@@ -9,6 +9,7 @@
 .navbar .navbar-nav {
     display: inline-block;
     float: none;
+    font-size:   18px;
 }
 
 
@@ -16,7 +17,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: none;
     padding: $spacing-unit2 0;
 }
 
@@ -127,6 +128,7 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    font-style: italic;
     
     @include media-query($on-laptop) {
         font-size: 36px;

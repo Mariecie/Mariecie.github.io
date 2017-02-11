@@ -3,11 +3,28 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-
+<p style="text-align:justify">
 <br> Fran&ccedil;ois DUFEIL
-<br> 16 rue Marie Curie
-<br> 93400 Saint-Ouen
+<br> Wonder/liebert
+<br> 124 Avenue Gallieni 
+<br> 93170 Bagnolet 
+<br> France
 <br />
-<br> 06.32.16.86.05
+<br> f.dufeil@yahoo.fr
+</p>
 <br />
-<br> f.dufeil[a]yahoo.fr
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
