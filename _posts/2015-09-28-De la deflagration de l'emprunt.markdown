@@ -2,15 +2,15 @@
 layout: post
 title:  "De la d&eacute;flagration de l'emprunt"
 date:   2015-09-28 15:39:40
-preview: 
+preview: https://www.dropbox.com/s/8g16fokcjgq02hf/De_la%20_deflagration_de_l%27emprunt_preview.jpg?raw=1
 ---
 
-![Picture 1]()
+![Picture 1](https://www.dropbox.com/s/6wy3tn08zi6pzo9/De_la%20_deflagration_de_l%27emprunt.jpg?raw=1)
 
-![Picture 2]()
+![Video 1]()
 
-![Picture 3]()
 
 <p style="text-align:justify">
-<span style="font-style: italic;">L&eacute;t&iuml;cia</span>   / visuel de jour de nuit / divers mat&eacute;riaux de construction / dimension variable / 2015
+<span style="font-style: italic;">De la d&eacute;flagration de l'emprunt</span>  / Pr&eacute;l&egrave;vements d'empreintes sonores / 2013.
 </p>
+<br> En collaboration avec Pierre Bertre.
