@@ -9,7 +9,7 @@ permalink: /expositions/
 <br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Du sang, du labeur des larmes et de la sueur</span></span>, sous le commissariat de Andy Rankin, au sein de l'ancienne usine de pile Wonder, &agrave; Saint Ouen (93)
 <br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Les intrus : trouble dans l'habitat</span></span>, sous le commissariat de Florian Gait&eacute;, Maison des Arts de Malakoff (92)
 <br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Stonehenge</span></span>, galerie RDV, Nantes (44)
-<br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">workshop Outside (Ecume - Scum)</span></span> au centre d'art contemporain Les Brasseurs, Li&egrave;ge, Belgique
+<br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">workshop Outside (Ecume - Scum)</span></span>, au centre d'art contemporain Les Brasseurs, Li&egrave;ge, Belgique
 </p>
 
 <p style="text-align:justify">
@@ -23,7 +23,7 @@ permalink: /expositions/
 <br />
 2013
 <br> <span style="font-weight: bold;">Exposition,<span style="font-style: italic;"> Prospectives architecturales</span></span>, Angers (49)
-En collaboration avec la mairie d'Angers et la SARA (Soci&eacute;t&eacute; d'Economie Mixte de la r&eacute;gion d'Angers).
+<br> En collaboration avec la mairie d'Angers et la SARA (Soci&eacute;t&eacute; d'Economie Mixte de la r&eacute;gion d'Angers).
 <br> <span style="font-weight: bold;">Exposition,<span style="font-style: italic;"> Elstir - passerelle pour l'art</span></span>, centre culturel, Saint-Rapha&euml;l (83)
 </p>
 
@@ -38,7 +38,7 @@ En collaboration avec la mairie d'Angers et la SARA (Soci&eacute;t&eacute; d'Eco
 <br />
 2011
 <br> <span style="font-weight: bold;">Exposition, Galerie Alizarine</span>, Combourg (35)
-<br> <span style="font-weight: bold;">Exposition collective, Association Ulysse 89</span>, La bouexi&egrave;re (35)
+<br> <span style="font-weight: bold;">Exposition collective, Association Ulysse 89</span>, La Bouexi&egrave;re (35)
 </p>
 
 <p style="text-align:justify">
