@@ -29,5 +29,5 @@ Ces recherches dans le paysage urbanis&eacute;g&eacute;n&egrave;rent des proposi
 </p>
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">T&eacute;l&eacute;charger mon CV</span> <a href="https://www.dropbox.com/s/kehynf9pvlxkhab/CV_Francois_Dufeil.pdf?raw=1">[PDF]</a>
+<span style="font-weight: bold;">T&eacute;l&eacute;charger mon CV</span> <a href="#" onclick='window.open("https://www.dropbox.com/s/kd9w1o2c63to8m0/CV_Francois_Dufeil.pdf?raw=1");return false;'>[PDF]</a>
 </p>

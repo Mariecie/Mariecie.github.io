@@ -5,7 +5,17 @@ permalink: /expositions/
 ---
 
 <p style="text-align:justify">
+<br />
+2017
+<br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Dirty Pepax</span></span>,  inauguration du Wonder/Lieber avec le Palais de Tokyo, Bagnolet (93)
+</p>
+
+<p style="text-align:justify">
+<br />
 2016
+<br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">It's a Dream</span></span>, galerie Arondit, Paris (75)
+<br> <span style="font-weight: bold;">R&eacute;sidence perform&eacute;e, <span style="font-style: italic;">Les Intrus #3 - Les parasites ouvriers</span></span>, activation de la performance de Claude Cattelain, <span style="font-style: italic;">Suite
+De Blocs Pour Quatre Mains</span>, sous le commissariat de Florian Gait&eacute;, Maison des Arts de Malakoff (92)
 <br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Du sang, du labeur des larmes et de la sueur</span></span>, sous le commissariat de Andy Rankin, au sein de l'ancienne usine de pile Wonder, &agrave; Saint Ouen (93)
 <br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Les intrus : trouble dans l'habitat</span></span>, sous le commissariat de Florian Gait&eacute;, Maison des Arts de Malakoff (92)
 <br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Stonehenge</span></span>, galerie RDV, Nantes (44)
