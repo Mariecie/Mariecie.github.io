@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Projets
 ---
 
 <div class="home">
