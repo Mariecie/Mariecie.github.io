@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Babel"
+title:  "Tour interminable"
 date:   2015-10-04 15:39:40
 preview: https://www.dropbox.com/s/g5v3o1mil1ypmiz/Babel_preview.jpg?raw=1
 ---
@@ -12,6 +12,6 @@ preview: https://www.dropbox.com/s/g5v3o1mil1ypmiz/Babel_preview.jpg?raw=1
 ![Picture 3](https://www.dropbox.com/s/nya08waum3llgr4/Babel%283%29.jpg?raw=1)
 
 <p style="text-align:justify">
-<span style="font-style: italic;">Babel</span> / moulages en terre v&eacute;g&eacute;tale / 5,0 x 1,20 m / 2014.
+<span style="font-style: italic;">Tour interminable</span> / monument &agrave; obsolescence / moulages en terre v&eacute;g&eacute;tale / 5,0 x 1,20 m / 2014.
 </p>
 Cr&eacute;dits photo Tanguy Behaghel.

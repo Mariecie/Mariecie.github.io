@@ -10,6 +10,6 @@ preview: https://www.dropbox.com/s/qbygdzb7j0q87ix/Errer_dans_l%27illusion_2016_
 ![Picture 2](https://www.dropbox.com/s/s5plkc9xh47n89f/Errer_dans_l%27illusion_2016_Les_Brasseurs%282%29.jpg?raw=1)
 
 <p style="text-align:justify">
-<span style="font-style: italic;">Errer dans l'illusion</span>  / fer &agrave; b&eacute;ton, c&acirc;ble galvanis&eacute; / 2,20 x 2,20 x 2,20 m / 2016 / Les Brasseurs, Centre d'Art Contemporain,
+<span style="font-style: italic;">Errer dans l'illusion</span> / fer &agrave; b&eacute;ton, c&acirc;ble galvanis&eacute; / 2,20 x 2,20 x 2,20 m / 2016 / Les Brasseurs, Centre d'Art Contemporain,
 Li&egrave;ge, Belgique.
 </p>

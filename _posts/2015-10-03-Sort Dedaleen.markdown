@@ -18,5 +18,5 @@ preview: https://www.dropbox.com/s/xdgplgbjljwvebr/Sort_dedaleen_preview.jpg?raw
 ![Picture 6](https://www.dropbox.com/s/7k3fe047hp83c53/Sort_dedaleen_2014%286%29.jpg?raw=1)
 
 <p style="text-align:justify">
-<span style="font-style: italic;">Sort d&eacute;dal&eacute;en</span> / sculpture / papier, sable, lignite, fer, cire / dimension variable / 2014.
+<span style="font-style: italic;">Sort d&eacute;dal&eacute;en</span> / architectures arch&eacute;typales / papier, sable, lignite, fer, cire / dimension variable / 2014.
 </p>

@@ -12,5 +12,5 @@ preview: https://www.dropbox.com/s/dsmqnrs51tvwkit/Eau%2Bterre%2Bfeu%20%3D%201%2
 ![Picture 3](https://www.dropbox.com/s/uoqe95n7d7x3ipb/Eau%2Bterre%2Bfeu%20%3D%201%20-%203%2C%202016.jpg?raw=1)
 
 <p style="text-align:justify">
-<span style="font-style: italic;">Eau+terre+feu = 1 : 3</span>  / Bois (epal), fa&iuml;ence rouge / 340 x 420 x 500 mm / 2016.
+<span style="font-style: italic;">Eau+terre+feu = 1 : 3</span> / mod&egrave;le r&eacute;duit / bois (epal), fa&iuml;ence rouge / 340 x 420 x 500 mm / 2016.
 </p>
