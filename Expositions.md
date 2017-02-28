@@ -44,16 +44,3 @@ De Blocs Pour Quatre Mains</span>, sous le commissariat de Florian Gait&eacute;,
 <br> R&eacute;activation de l'exposition art by telephone &eacute;dit&eacute;e par le MOMA en 1969. Art by telephone recall expos&eacute;e dans quatre lieux simultan&eacute;ment ( Esba TALM d'Angers, CAPC de Bordeaux, The Emily Harvey Foundation de New York et le San Francisco Art Institute ).
 </p>
 
-<p style="text-align:justify">
-<br />
-2011
-<br> <span style="font-weight: bold;">Exposition, Galerie Alizarine</span>, Combourg (35)
-<br> <span style="font-weight: bold;">Exposition collective, Association Ulysse 89</span>, La Bouexi&egrave;re (35)
-</p>
-
-<p style="text-align:justify">
-<br />
-2010
-<br> <span style="font-weight: bold;">Exposition collective, centre culturel</span>, Liffr&eacute; (35)
-<br> <span style="font-weight: bold;">Exposition, CombiBar</span>, Rennes (35)
-</p>
