@@ -11,22 +11,22 @@ Issu de l&#39;Ecole Nationale Sup&eacute;rieure des Arts D&eacute;coratifs de Pa
 </p>
 <br/>
 
-<span style="font-weight: bold;">Recherches</span> 
+<span style="font-weight: bold;">Travail</span> 
 
 <p style="text-align:justify">
-L'espace dit "public" est un miroir symptomatique dans lequel se refl&egrave;tent nos modes de pens&eacute;es. Dans cet espace, l'"urbain" devient une mati&egrave;re premi&egrave;re pour la r&eacute;flexion.
+L'espace dit "public" est un miroir symptomatique dans lequel se refl&egrave;tent les modes de pens&eacute;es &eacute;tatiques. A l'int&eacute;rieur de cet espace, l'"urbain" est une ressource, une mati&egrave;re premi&egrave;re &agrave; examiner.
 </p> 
 
 <p style="text-align:justify">
-Tout d'abord, il s'agirait de rappeler que les lieux de notre existence ne sont pas neutres, et ce sont ces lieux en question qui font en grande partie ce que nous sommes. Evoluer dans un environnement hostile sera le reflet de notre devenir. 
+Tout d'abord, il s'agirait de rappeler que les lieux de notre existence ne sont pas neutres. Ce sont les environnements que nous construisons qui, en grande partie, produisent ce que nous sommes. Evoluer dans un environnement hostile sera l'anticipation de notre devenir. 
 </p> 
 
 <p style="text-align:justify">
-S&#39;impr&eacute;gner et pr&eacute;lever des fragments d&#39;espaces construits par l&#39;homme pour restituer des objets critiques. Tout dessin produit et tout produit construit, influencent, dirigent et stigmatisent nos corps. Les dysfonctionnements et les d&eacute;sint&eacute;grations de l&#39;espace architectural et urbanistique deviennent alors les moteurs de mon travail.
+Le mot d'ordre est de s&#39;impr&eacute;gner et de pr&eacute;lever des fragments d&#39;espaces construits par l&#39;homme pour restituer des objets perturbateurs. Tout dessin produit et tout produit construit, influencent, dirigent et stigmatisent nos corps. Les dysfonctionnements et les d&eacute;sint&eacute;grations de l&#39;espace architectural et urbanistique deviennent alors les moteurs de mon travail.
 </p> 
 
 <p style="text-align:justify">
-Mes objets et instruments tentent de remettre en cause le cloisonnement, le contr&ocirc;le, la rationalit&eacute; et le fonctionnalisme dans la production d&#39;espace architectonique.
+Mes objets et instruments tentent de remettre en cause le cloisonnement, l'obsolescence, le contr&ocirc;le, la rationalit&eacute; et le fonctionnalisme dans la production d&#39;espace architectonique. Ils cherchent &agrave; exacerber les degr&eacute;s de violence impos&eacute;s par l'architecture dans notre quotidien.
 </p> 
 
 <p style="text-align:justify">
