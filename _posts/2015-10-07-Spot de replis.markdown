@@ -11,8 +11,12 @@ preview: https://www.dropbox.com/s/vbmrjy8cdxp2my5/Lieu_des_replis_2015_preview.
 https://www.dropbox.com/s/650odcebfoamsm7/Lieu_des_replis_2015_detail.jpg?raw=1)
 
 <p style="text-align:justify">
-<span style="font-style: italic;">Spot de replis</span> / tube acier, grillage, cam&eacute;ra factice / 2,90 x 2,90 x 2,60 m / 2015 / Maison des Arts de Malakoff (92).
+<span style="font-style: italic;">Spot de replis</span> / anti-abri, sur-protection du vide / tube acier, grillage, cam&eacute;ra factice / 2,90 x 2,90 x 2,60 m / 2015 / Maison des Arts de Malakoff (92).
 </p>
 <br>
 
 ![Picture 3](https://www.dropbox.com/s/spsirap36bt2kru/Lieu_des_replis_2015_3D.jpg?raw=1)
+
+<p style="text-align:justify">
+<span style="font-style: italic;">Spot de replis</span> / mod&eacute;lisation 3D / 2015.
+</p>
