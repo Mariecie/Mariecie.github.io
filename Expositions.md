@@ -41,6 +41,6 @@ De Blocs Pour Quatre Mains</span>, sous le commissariat de Florian Gait&eacute;,
 <br />
 2012
 <br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Art by Telephone recall</span></span>, r&eacute;alisation d'une oeuvre de Dominique Blais, Angers (49)
-<br> R&eacute;activation de l'exposition art by telephone &eacute;dit&eacute;e par le MOMA en 1969. Art by telephone recall expos&eacute;e dans quatre lieux simultan&eacute;ment ( Esba TALM d'Angers, CAPC de Bordeaux, The Emily Harvey Foundation de New York et le San Francisco Art Institute ).
+<br> R&eacute;activation de l'exposition art by telephone &eacute;dit&eacute;e par le MOMA en 1969. Art by telephone recall expos&eacute;e dans quatre lieux simultan&eacute;ment (Esba TALM d'Angers, CAPC de Bordeaux, The Emily Harvey Foundation de New York et le San Francisco Art Institute).
 </p>
 
