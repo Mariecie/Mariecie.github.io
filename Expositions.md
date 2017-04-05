@@ -7,7 +7,7 @@ permalink: /expositions/
 <p style="text-align:justify">
 <br />
 2017
-<br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Dirty Pepax</span></span>,  inauguration du Wonder/Lieber avec le Palais de Tokyo, Bagnolet (93)
+<br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Dirty Pepax</span></span>,  inauguration du Wonder/Liebert avec le Palais de Tokyo, Bagnolet (93)
 </p>
 
 <p style="text-align:justify">

@@ -17,7 +17,7 @@ Cr&eacute;dits photo Nelson Pernisco.
 </p>
 
 <p style="text-align:justify">
-<span style="font-style: italic;">Folie obsidionale</span> / installation r&eacute;pulsive / acier, cypr&egrave;s macrocarpa, lampe &agrave; sodium / 3 x 3 m / 2016 / Galerie Arondit, Paris.
+<span style="font-style: italic;">Folie obsidionale</span> / installation r&eacute;pulsive / acier, cypr&egrave;s macrocarpa, lampe &agrave; sodium / 3 x 3 m / 2016 / It's a dream, Galerie Arondit, Paris.
 </p>
 <br>
 

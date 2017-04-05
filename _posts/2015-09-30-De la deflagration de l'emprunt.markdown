@@ -8,7 +8,7 @@ preview: https://www.dropbox.com/s/8g16fokcjgq02hf/De_la%20_deflagration_de_l%27
 <iframe src="https://player.vimeo.com/video/205879083" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p style="text-align:justify">
-<span style="font-style: italic;">De la d&eacute;flagration de l'emprunt</span> / pr&eacute;l&egrave;vements d'empreintes sonores / pistolet, balles &agrave; blanc, microphones / 2013.
+<span style="font-style: italic;">De la d&eacute;flagration de l'emprunt</span> / pr&eacute;l&egrave;vements d'empreintes sonores / bunkers, pistolet, balles &agrave; blanc, microphones / 2013.
 </p>
 En collaboration avec Pierre Bertre.
 
