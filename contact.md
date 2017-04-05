@@ -7,7 +7,6 @@ permalink: /contact/
 <p style="text-align:justify">
 <br> Fran&ccedil;ois DUFEIL
 <br> 
-<br> Wonder/liebert
 <br> 124 Avenue Gallieni 
 <br> 93170 Bagnolet 
 <br> France
