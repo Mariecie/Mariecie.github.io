@@ -14,7 +14,7 @@ Issu de l&#39;Ecole Nationale Sup&eacute;rieure des Arts D&eacute;coratifs de Pa
 <span style="font-weight: bold;">Travail</span> 
 
 <p style="text-align:justify">
-L'espace dit "public" est un miroir symptomatique dans lequel se refl&egrave;tent les modes de pens&eacute;es &eacute;tatiques. A l'int&eacute;rieur de cet espace, l'"urbain" est une ressource, une mati&egrave;re premi&egrave;re &agrave; examiner.
+L'espace dit &laquo;public&raquo; est un miroir symptomatique dans lequel se refl&egrave;tent les modes de pens&eacute;es &eacute;tatiques. A l'int&eacute;rieur de cet espace, l'&laquo;urbain&raquo; est une ressource, une mati&egrave;re premi&egrave;re &agrave; examiner.
 </p> 
 
 <p style="text-align:justify">

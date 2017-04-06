@@ -13,7 +13,7 @@ Cr&eacute;dits photo Salim Santa Lucia.
 
 ![Picture 2](https://www.dropbox.com/s/41bbeir2d7uxuyk/folie_obsidionnale.jpg?raw=1)
 <p style="text-align:justify">
-Cr&eacute;dits photo Nelson Pernisco.
+Cr&eacute;dits photo <a href="#" onclick='window.open("https://www.nelsonpernisco.com/expositions");return false;'>Nelson Pernisco</a>.
 </p>
 
 <p style="text-align:justify">
