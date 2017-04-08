@@ -5,11 +5,13 @@ date:   2015-10-04 15:39:40
 preview: https://www.dropbox.com/s/g5v3o1mil1ypmiz/Babel_preview.jpg?raw=1
 ---
 
-![Picture 1](https://www.dropbox.com/s/mdxcs1ujwziknr8/Babel.jpg?raw=1)
+<img src="https://www.dropbox.com/s/mdxcs1ujwziknr8/Babel.jpg?raw=1" alt="Tour interminable est un monument en terre v&eacute;g&eacute;tale construit &agrave; Angers, une installation &agrave; obsolescence entre le chantier et la ruine">
 
-![Picture 2](https://www.dropbox.com/s/4sa19bokuzoentf/Babel%282%29.jpg?raw=1)
+<img src="https://www.dropbox.com/s/4sa19bokuzoentf/Babel%282%29.jpg?raw=1" alt="Tour interminable est un monument en terre v&eacute;g&eacute;tale construit &agrave; Angers, une installation &agrave; obsolescence entre le chantier et la ruine">
 
-![Picture 3](https://www.dropbox.com/s/nya08waum3llgr4/Babel%283%29.jpg?raw=1)
+
+<img src="https://www.dropbox.com/s/nya08waum3llgr4/Babel%283%29.jpg?raw=1" alt="Tour interminable est un monument en terre v&eacute;g&eacute;tale construit &agrave; Angers, une installation &agrave; obsolescence entre le chantier et la ruine">
+
 <p style="text-align:justify">
 Cr&eacute;dits photos Tanguy Behaghel.
 </p>
@@ -19,7 +21,8 @@ Cr&eacute;dits photos Tanguy Behaghel.
 </p>
 <br>
 
-![Picture 5](https://www.dropbox.com/s/f1qrdaw3rh14ja7/Ruines_maquette_2014_Photo_Laura_Evrat.jpg?raw=1)
+<img src="https://www.dropbox.com/s/f1qrdaw3rh14ja7/Ruines_maquette_2014_Photo_Laura_Evrat.jpg?raw=1" alt="Tour interminable est un monument en terre v&eacute;g&eacute;tale construit &agrave; Angers, une installation &agrave; obsolescence entre le chantier et la ruine">
+
 <p style="text-align:justify">
 Cr&eacute;dits photo Laura Evrat.
 </p>

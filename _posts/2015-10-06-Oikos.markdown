@@ -6,17 +6,21 @@ preview: https://www.dropbox.com/s/czrrtkwwsivz1he/oikos_2015_preview.jpeg?raw=1
 ---
 
 
-![Picture 1](https://www.dropbox.com/s/lmch0h5fkdpcuwz/Oikos_2015%20%282%29.jpg?raw=1)
+<img src="https://www.dropbox.com/s/lmch0h5fkdpcuwz/Oikos_2015%20%282%29.jpg?raw=1" alt="L'o&iuml;kos est un poulailler en forme de d&ocirc;me g&eacute;od&eacute;sique invent&eacute; par Buckminster Fuller au Black Mountain College, c'est une sculpture g&eacute;n&eacute;ratrice">
 
-![Picture 2](https://www.dropbox.com/s/7tx4r0kvsmvte3h/Oikos_2015.jpg?raw=1)
+<img src="https://www.dropbox.com/s/7tx4r0kvsmvte3h/Oikos_2015.jpg?raw=1" alt="L'o&iuml;kos est un poulailler en forme de d&ocirc;me g&eacute;od&eacute;sique invent&eacute; par Buckminster Fuller au Black Mountain College, c'est une sculpture g&eacute;n&eacute;ratrice">
 
-![Picture 3](https://www.dropbox.com/s/h9ddukl6qotdetn/oikos_2015.jpeg?raw=1)
+<img src="https://www.dropbox.com/s/h9ddukl6qotdetn/oikos_2015.jpeg?raw=1" alt="L'o&iuml;kos est un poulailler en forme de d&ocirc;me g&eacute;od&eacute;sique invent&eacute; par Buckminster Fuller au Black Mountain College, c'est une sculpture g&eacute;n&eacute;ratrice">
 
 <p style="text-align:justify">
 <span style="font-style: italic;">O&iuml;kos</span> / sculpture g&eacute;n&eacute;ratrice / branches, cordelette,  contreplaqu&eacute; bak&eacute;lis&eacute;, poules / &Oslash; 2,9 x 1,2 m / 2015.
 </p>
 <p style="text-align:justify">
 En collaboration avec <a href="#" onclick='window.open("http://www.arthurchiron.com/");return false;'>Arthur Chiron</a>.
+</p>
+
+<p style="text-align:justify">
+<a href="#" onclick='window.open("https://www.youtube.com/watch?v=8jVoWUsMYk8");return false;'>Vid&eacute;o</a> <span style="font-style: italic;">Faire monter l'O&iuml;kos</span> - Caniard - 23.05.2015
 </p>
 
 

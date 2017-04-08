@@ -5,9 +5,9 @@ date:   2015-10-08 15:39:40
 preview: https://www.dropbox.com/s/qbygdzb7j0q87ix/Errer_dans_l%27illusion_2016_Les_Brasseurs_preview.jpg?raw=1
 ---
 
-![Picture 1](https://www.dropbox.com/s/5eb2gummsdnwyzn/Errer_dans_l%27illusion_2016_Les_Brasseurs.jpg?raw=1)
+<img src="https://www.dropbox.com/s/5eb2gummsdnwyzn/Errer_dans_l%27illusion_2016_Les_Brasseurs.jpg?raw=1" alt="Errer dans l'illusion, sculpture en forme de h&eacute;risson Tch&egrave;que renvoie au principe de Claude Parent la fonction oblique, elle est en fer &agrave; b&eacute;ton et est pr&eacute;sent&eacute;e aux Brasseurs, centre d'art contemporain &agrave; li&egrave;ge">
 
-![Picture 2](https://www.dropbox.com/s/s5plkc9xh47n89f/Errer_dans_l%27illusion_2016_Les_Brasseurs%282%29.jpg?raw=1)
+<img src="https://www.dropbox.com/s/s5plkc9xh47n89f/Errer_dans_l%27illusion_2016_Les_Brasseurs%282%29.jpg?raw=1" alt="Errer dans l'illusion, sculpture en forme de h&eacute;risson Tch&egrave;que renvoie au principe de Claude Parent la fonction oblique, elle est en fer &agrave; b&eacute;ton et est pr&eacute;sent&eacute;e aux Brasseurs, centre d'art contemporain &agrave; li&egrave;ge">
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Errer dans l'illusion</span> / d&eacute;g&eacute;n&eacute;rescence d'une architecture, obsolescence d'un instrument de contr&ocirc;le / fer &agrave; b&eacute;ton, c&acirc;ble galvanis&eacute; / 2,20 x 2,20 x 2,20 m / 2016 / Les Brasseurs, Centre d'Art Contemporain,
