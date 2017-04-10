@@ -11,7 +11,7 @@ preview: https://www.dropbox.com/s/vbmrjy8cdxp2my5/Lieu_des_replis_2015_preview.
 https://www.dropbox.com/s/650odcebfoamsm7/Lieu_des_replis_2015_detail.jpg?raw=1" alt="Spot des replis, sculpture tir&eacute;e des gated communities est construite en grillage et acier, les cam&eacute;ra de surveillance regardent la Maison des Arts de Malakoff">
 
 <p style="text-align:justify">
-<span style="font-style: italic;">Spot de replis</span> / anti-abri, sur-protection du vide / tube acier, grillage, cam&eacute;ra factice / 2,90 x 2,90 x 2,60 m / 2015 / Maison des Arts de Malakoff (92).
+<span style="font-style: italic;">Spot de replis</span> / anti-abri, sur-protection du vide / tube acier, grillage, cam&eacute;ra factice / 2,90 x 2,90 x 2,60 m / 2015 /, <a href="#" onclick='window.open("http://maisondesarts.malakoff.fr/");return false;'>Maison des Arts de Malakoff</a> (92).
 </p>
 <br>
 
