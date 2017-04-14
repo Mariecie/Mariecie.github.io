@@ -1,15 +1,20 @@
 # Site settings
+
 title: Fran&ccedil;ois Dufeil
+
 email: f.dufeil@yahoo.fr
 
-#># this means to ignore newlines until "baseurl:"
+description: ># this means to ignore newlines until "baseurl:"
 
-description: Propositions artistiques de Fran&ccedil;ois Dufeil. 
+Propositions artistiques de Fran&ccedil;ois Dufeil. Espace public, espace architectural, espace architectonique, espace urbanistique, urbain, mat&eacute;riaux. Installations, sculptures. Utopie, dystopie.  
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+
+url: "francoisdufeil.fr" # the base hostname & protocol for your site
+
+github_username:  Mariecie
+
+
 
 # Build settings
 # markdown: kramdown
