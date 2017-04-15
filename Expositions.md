@@ -4,6 +4,9 @@ title: Expositions
 permalink: /expositions/
 ---
 
+<img src="https://www.dropbox.com/s/3n8g9v8a3lfoq4j/expo-actuel.jpg?raw=1" alt="exposition l'Actuel &agrave; la Galerie Episodique du 20 avril au 27 mai 2017">
+
+
 <p style="text-align:justify">
 <br />
 2017

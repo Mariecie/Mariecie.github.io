@@ -1,25 +1,15 @@
 # Site settings
-
 title: Fran&ccedil;ois Dufeil
-
 email: f.dufeil@yahoo.fr
-
-description: ># this means to ignore newlines until "baseurl:"
-
-Propositions artistiques de Fran&ccedil;ois Dufeil. Espace public, espace architectural, espace architectonique, espace urbanistique, urbain, mat&eacute;riaux. Installations, sculptures. Utopie, dystopie.  
-
+#># this means to ignore newlines until "baseurl:"
+description: Propositions artistiques de Fran&ccedil;ois Dufeil. Espace public, espace architectural, espace architectonique, espace urbanistique, urbain, mat&eacute;riaux. Installations, sculptures. Utopie, dystopie.  
 baseurl: "" # the subpath of your site, e.g. /blog/
-
 url: "francoisdufeil.fr" # the base hostname & protocol for your site
-
 github_username:  Mariecie
-
-
 
 # Build settings
 # markdown: kramdown
 permalink: pretty
-
 #highlighter:      pygments
 #highlighter:      rouge
 

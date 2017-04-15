@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fi&egrave;vre obsidionale"
-date:   2015-10-10 15:39:40
+date:   2015-10-11 15:39:40
 preview: https://www.dropbox.com/s/u3ozes49dgl8q53/Fievre_obsidional_2017_preview.jpg?raw=1
 ---
 
