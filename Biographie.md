@@ -9,10 +9,8 @@ permalink: /biographie/
 <p style="text-align:justify">
 Issu de l&#39;Ecole Nationale Sup&eacute;rieure des Arts D&eacute;coratifs de Paris (<a href="#" onclick='window.open("http://www.ensad.fr/");return false;'>ENSAD</a>), de l&#39;Ecole Sup&eacute;rieure des Beaux&ndash;Arts d&#39;Angers (<a href="#" onclick='window.open("http://angers.esba-talm.fr/");return false;'>ESBA TALM</a>) et des <a href="#" onclick='window.open("http://www.compagnons-du-devoir.com/");return false;'>Compagnons du Devoir du Tour de France</a>, Fran&ccedil;ois Dufeil, est n&eacute; en 1987 &agrave; Rennes, vit et travaille &agrave; Paris.
 </p>
+<span style="font-color: #272727;">---------------</span> 
 <br/>
-
-<span style="font-weight: bold;">Travail</span> 
-
 <p style="text-align:justify">
 L'espace dit &laquo;public&raquo; est un miroir symptomatique dans lequel se refl&egrave;tent les modes de pens&eacute;es &eacute;tatiques. A l'int&eacute;rieur de cet espace, l'&laquo;urbain&raquo; est une ressource, une mati&egrave;re premi&egrave;re &agrave; examiner.
 </p> 
