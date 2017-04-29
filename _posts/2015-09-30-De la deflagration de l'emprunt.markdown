@@ -12,7 +12,7 @@ preview: https://www.dropbox.com/s/8g16fokcjgq02hf/de-la-deflagration-de-l%27emp
 </p>
 En collaboration avec Pierre Bertre.
 
-<img src="https://www.dropbox.com/s/6wy3tn08zi6pzo9/de-la-deflagration-de-l%27emprunt.jpg?raw=1" alt="De la d&eacute;flagration de l'emprunt sont des coups de pistolets tir&eacute;s dans des bunkers de la seconde guerre mondiale, une empreinte d'architecture brutaliste. Le son est restitu&eacute; dans une installation, une cabine d'&eacute;coute en forme de coffrage.">
+<img src="https://www.dropbox.com/s/6wy3tn08zi6pzo9/de-la-deflagration-de-l%27emprunt.jpg?raw=1" alt="De la d&eacute;flagration de l'emprunt sont des coups de pistolets tir&eacute;s dans des bunkers de la seconde guerre mondiale, une empreinte d'architecture brutaliste. Le son est restitu&eacute; dans une installation, une cabine d'&eacute;coute en forme de coffrage.Fran&ccedil;ois Dufeil">
 
 <p style="text-align:justify">
 <span style="font-style: italic;">De la d&eacute;flagration de l'emprunt</span> / cabine d'&eacute;coute / sapin, ordinateur, microphone, casque audio / 1,10 x 1,10 x 2,30 m / 2014.
