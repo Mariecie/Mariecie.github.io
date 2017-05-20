@@ -11,7 +11,7 @@ permalink: /contact/
 <br> 93170 Bagnolet 
 <br> France
 <br> 
-<br> f.dufeil@yahoo.fr
+<br> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 </p>
 
 <br> 
