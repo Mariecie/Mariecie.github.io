@@ -20,11 +20,12 @@ Tout d'abord, il s'agirait de rappeler que les lieux de notre existence ne sont 
 </p> 
 
 <p style="text-align:justify">
-Le mot d'ordre est de s&#39;impr&eacute;gner et de pr&eacute;lever des fragments d&#39;espaces construits par l&#39;homme pour restituer des objets perturbateurs. Tout dessin produit et tout produit construit, influencent, dirigent et stigmatisent nos corps. Les dysfonctionnements et les d&eacute;sint&eacute;grations de l&#39;espace architectural et urbanistique deviennent alors les moteurs de mon travail.
+Mon mot d'ordre: s'impr&eacute;gner et pr&eacute;lever des fragments d&#39;espaces construits pour restituer des objets perturbateurs. Tout dessin produit et tout produit construit, influencent, dirigent et stigmatisent nos corps. Dysfonctions et  d&eacute;sint&eacute;grations du paysage urbanis&eacute; sont les moteurs de mes propositions.
 </p> 
 
 <p style="text-align:justify">
-Mes objets et instruments tentent de remettre en cause le cloisonnement, l'obsolescence, le contr&ocirc;le, la rationalit&eacute; et le fonctionnalisme dans la production d&#39;espace architectonique. Ils cherchent &agrave; exacerber les degr&eacute;s de violence impos&eacute;s par l'architecture dans notre quotidien.
+Mes objets et outils tentent de remettre en cause le cloisonne- ment et le contr&ocirc;le en partant du principe que les termes : circuler - &ecirc;tre canalis&eacute; ont remplac&eacute; habiter - vivre. Ces propositions d&eacute;jouent &eacute;galement la rationalit&eacute;, le fonctionnalisme et l'obsolescence dans la production d'espace architectonique. Ils cherchent &agrave; exacerber les degr&eacute;s de violence impos&eacute;s par l'architecture dans notre quotidien. Plus pr&eacute;cis&eacute;ment, &agrave; r&eacute;v&eacute;ler l'animosit&eacute; qu'exerce l'architecture sur nos corps, ce 
+qu'elle induit, exclusion et forclusion.
 </p> 
 
 <p style="text-align:justify">
