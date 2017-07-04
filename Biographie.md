@@ -24,7 +24,7 @@ Mon mot d'ordre: s'impr&eacute;gner et pr&eacute;lever des fragments d&#39;espac
 </p> 
 
 <p style="text-align:justify">
-Mes objets et outils tentent de remettre en cause le cloisonne- ment et le contr&ocirc;le en partant du principe que les termes : circuler - &ecirc;tre canalis&eacute; ont remplac&eacute; habiter - vivre. Ces propositions d&eacute;jouent &eacute;galement la rationalit&eacute;, le fonctionnalisme et l'obsolescence dans la production d'espace architectonique. Ils cherchent &agrave; exacerber les degr&eacute;s de violence impos&eacute;s par l'architecture dans notre quotidien. Plus pr&eacute;cis&eacute;ment, &agrave; r&eacute;v&eacute;ler l'animosit&eacute; qu'exerce l'architecture sur nos corps, ce 
+Mes objets et outils tentent de remettre en cause le cloisonnement et le contr&ocirc;le en partant du principe que les termes : circuler - &ecirc;tre canalis&eacute; ont remplac&eacute; habiter - vivre. Ces propositions d&eacute;jouent &eacute;galement la rationalit&eacute;, le fonctionnalisme et l'obsolescence dans la production d'espace architectonique. Elles cherchent &agrave; exacerber les degr&eacute;s de violence impos&eacute;s par l'architecture dans notre quotidien. Plus pr&eacute;cis&eacute;ment, &agrave; r&eacute;v&eacute;ler l'animosit&eacute; qu'exerce l'architecture sur nos corps, ce 
 qu'elle induit, exclusion et forclusion.
 </p> 
 
