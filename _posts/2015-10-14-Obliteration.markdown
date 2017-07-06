@@ -9,10 +9,14 @@ preview: https://www.dropbox.com/s/dmqhdxlomkchunh/obliteration-preview2.jpg?raw
 
 <img src="https://www.dropbox.com/s/z5f50vu5tsgm6dj/Obliteration-2017-%C2%A9Ensad-ph.Beryl-Libault-de-La-Chevasnerie%282%29.jpg?raw=1" alt="Oblit&eacute;ration.Fran&ccedil;ois Dufeil">
 
+<img src="https://www.dropbox.com/s/qlbre0wdqn1glic/Obliteration-2017%285%29.jpg?raw=1" alt="Oblit&eacute;ration.Fran&ccedil;ois Dufeil">
+
 <p style="text-align:justify">
 <span style="font-style: italic;">Oblit&eacute;ration</span> / taloche, possibilit&eacute; de fa&ccedil;onner b&eacute;ton, pl&acirc;tre, etc... / acier / 1300 x 900 x 200 mm / 2017.
 </p>
 <br>
+
+<img src="https://www.dropbox.com/s/5pemd3nn9jftwof/Obliteration-2017%284%29.jpg?raw=1" alt="Oblit&eacute;ration.Fran&ccedil;ois Dufeil">
 
 <img src="https://www.dropbox.com/s/jgwinif3rwt1xlq/Obliteration-2017%282%29.jpg?raw=1" alt="Oblit&eacute;ration.Fran&ccedil;ois Dufeil">
 
