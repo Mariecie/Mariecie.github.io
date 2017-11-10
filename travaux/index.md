@@ -4,6 +4,10 @@ layout: page
 
 <div class="home">
 
-  {% include preview.html %}
+ {% include preview.html %}
+
+</div>
+
+ 
 
 
