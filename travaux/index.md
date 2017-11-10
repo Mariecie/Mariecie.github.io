@@ -6,7 +6,7 @@ layout: page
 
  {% include preview.html %}
 
-</div>
+
 
  
 
