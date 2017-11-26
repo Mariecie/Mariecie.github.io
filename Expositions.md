@@ -7,8 +7,7 @@ permalink: /expositions/
 <p style="text-align:justify">
 <br />
 2017
-<br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Genius Loci</span></span>, <a href="#" onclick='window.open("https://www.facebook.com/wonder.st.ouen");return false;'>Wonder/Liebert</a>, Bagnolet (93)
-<br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">L'Actuel</span></span>, <a href="#" onclick='window.open("https://www.facebook.com/lagalerie.episodique");return false;'>Galerie &Eacute;pisodique</a>, Paris (75)   
+
 <br> <span style="font-weight: bold;">Exposition, <span style="font-style: italic;">Dirty Pepax</span></span>,  inauguration du <a href="#" onclick='window.open("https://www.facebook.com/wonder.st.ouen");return false;'>Wonder/Liebert</a> en partenariat avec le <a href="#" onclick='window.open("http://www.palaisdetokyo.com/");return false;'>Palais de Tokyo</a>, Bagnolet (93)
 </p>
 
