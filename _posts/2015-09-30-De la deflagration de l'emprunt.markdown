@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "De la d&eacute;flagration de l'emprunt"
+title:  "DE LA D&Eacute;FLAGRATION DE L'EMPRUNT"
 date:   2015-09-30 15:39:40
 preview: https://www.dropbox.com/s/8g16fokcjgq02hf/de-la-deflagration-de-l%27emprunt-preview.jpg?raw=1
 ---

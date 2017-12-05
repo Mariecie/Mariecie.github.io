@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Contact
+title: CONTACT
 permalink: /contact/
 ---
 
 <p style="text-align:justify">
-<br> Fran&ccedil;ois DUFEIL
+<br> FRAN&Ccedil;OIS DUFEIL
 <br> 
 <br> 124 Avenue Gallieni 
 <br> 93170 Bagnolet 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Planter une flaque"
+title:  "PLANTER UNE FLAQUE"
 date:   2015-09-28 15:39:40
 preview: https://www.dropbox.com/s/pz8sy3b40vtkhal/Planter-une-flaque-preview.jpg?raw=1
 ---

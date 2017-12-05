@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shaquille O'Neal"
+title:  "SHAQUILLE O'NEAL"
 date:   2015-09-27 15:39:40
 preview: https://www.dropbox.com/s/3yijqgpgn0j0o6i/Shaquille-o%27Neal-preview.jpg?raw=1
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dispositif de mus&eacute;ification"
+title:  "DISPOSITIF DE MUS&Eacute;IFICATION"
 date:   2015-09-29 15:39:40
 preview: https://www.dropbox.com/s/jtfvc6bkgcsepjs/dispositif-de-museification-preview.jpg?raw=1
 ---

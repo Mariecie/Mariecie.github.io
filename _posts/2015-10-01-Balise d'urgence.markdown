@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Balise d'urgence"
+title:  "BALISE D'URGENCE"
 date:   2015-10-01 15:39:40
 preview: https://www.dropbox.com/s/f9oc68d92b6gcvp/balise-urgence-preview.jpg?raw=1
 ---

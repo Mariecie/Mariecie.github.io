@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Les r&eacute;sidus dystopiques"
+title:  "LES R&Eacute;SIDUS DYSTOPIQUES"
 date:   2015-10-02 15:39:40
 preview: https://www.dropbox.com/s/up0ee7dfvigj0yz/Les-residus-dystopiques-preview.jpg?raw=1
 ---

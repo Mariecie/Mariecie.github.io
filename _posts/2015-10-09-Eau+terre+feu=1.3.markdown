@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eau + terre + feu = 1:3"
+title:  "EAU + TERRE + FEU = 1:3"
 date:   2015-10-09 15:39:40
 preview: https://www.dropbox.com/s/dsmqnrs51tvwkit/Eau%2Bterre%2Bfeu%3D1.3-Arslan-Smirnov-preview.jpg?raw=1
 ---

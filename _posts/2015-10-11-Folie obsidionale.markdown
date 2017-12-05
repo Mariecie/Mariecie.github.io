@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Folie obsidionale"
+title:  "FOLIE OBSIDIONALE"
 date:   2015-10-11 15:39:40
 preview: https://www.dropbox.com/s/torw2w3875kon8e/folie-obsidionale-preview.jpg?raw=1
 ---

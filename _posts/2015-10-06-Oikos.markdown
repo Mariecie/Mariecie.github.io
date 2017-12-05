@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "O&iuml;kos"
+title:  "O&Iuml;KOS"
 date:   2015-10-06 15:39:40
 preview: https://www.dropbox.com/s/7d2m8yxqbb1jjwm/oikos-preview.jpeg?raw=1
 ---

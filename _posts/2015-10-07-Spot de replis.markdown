@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spot de replis"
+title:  "SPOT DE REPLIS"
 date:   2015-10-07 15:39:40
 preview: https://www.dropbox.com/s/vbmrjy8cdxp2my5/spot-de-replis-preview.jpg?raw=1
 ---

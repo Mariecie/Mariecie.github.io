@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fi&egrave;vre obsidionale"
+title:  "FI&Egrave;VRE OBSIDIONALE"
 date:   2015-10-12 15:39:40
 preview: https://www.dropbox.com/s/u3ozes49dgl8q53/Fievre-obsidionale-preview.jpg?raw=1
 ---
