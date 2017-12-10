@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SPOT DE REPLIS"
-date:   2015-10-07 15:39:40
+date:   2015-10-06 15:39:40
 preview: https://www.dropbox.com/s/vbmrjy8cdxp2my5/spot-de-replis-preview.jpg?raw=1
 ---
 

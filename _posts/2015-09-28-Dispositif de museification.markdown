@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DISPOSITIF DE MUS&Eacute;IFICATION"
-date:   2015-09-29 15:39:40
+date:   2015-09-28 15:39:40
 preview: https://www.dropbox.com/s/jtfvc6bkgcsepjs/dispositif-de-museification-preview.jpg?raw=1
 ---
 
