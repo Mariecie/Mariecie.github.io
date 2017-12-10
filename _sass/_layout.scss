@@ -15,7 +15,13 @@
 .navbar .navbar-nav a {
     float: none;
     font-size:   18px;
-    text-decoration: none;
+}
+
+.navbar .navbar-nav a:hover,
+.navbar .navbar-nav a:focus {
+    color: $text-color;
+    text-decoration: underline;
+    background-color: #a6a6a6;
 }
 
 
