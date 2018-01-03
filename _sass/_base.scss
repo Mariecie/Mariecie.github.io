@@ -104,6 +104,7 @@ a {
     &:active {
         color: $text-color;
         font-weight: bold;
+	text-decoration: underline;
     }
 }
 
