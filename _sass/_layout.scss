@@ -5,6 +5,7 @@
     position: relative;
     text-align: center;
 }
+
 .navbar .navbar-nav {
     position: relative;
     display: inline-block;
@@ -153,6 +154,10 @@
        
     @include media-query($on-laptop) {
         font-size: 36px;
+    }
+
+    @include media-query($on-palm) {
+        font-size: 14px;
     }
 }
 
