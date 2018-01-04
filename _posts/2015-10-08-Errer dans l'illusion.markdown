@@ -6,6 +6,7 @@ preview: https://www.dropbox.com/s/qbygdzb7j0q87ix/Errer-dans-l%27illusion-previ
 ---
 
 <img src="https://www.dropbox.com/s/5eb2gummsdnwyzn/Errer-dans-l%27illusion.jpg?raw=1" alt="Errer dans l'illusion, sculpture en forme de h&eacute;risson Tch&egrave;que renvoie au principe de Claude Parent la fonction oblique, elle est en fer &agrave; b&eacute;ton et est pr&eacute;sent&eacute;e aux Brasseurs, centre d'art contemporain &agrave; li&egrave;ge.Fran&ccedil;ois Dufeil">
+<p>&nbsp;</p>
 
 <img src="https://www.dropbox.com/s/s5plkc9xh47n89f/Errer-dans-l%27illusion%20%282%29.jpg?raw=1" alt="Errer dans l'illusion, sculpture en forme de h&eacute;risson Tch&egrave;que renvoie au principe de Claude Parent la fonction oblique, elle est en fer &agrave; b&eacute;ton et est pr&eacute;sent&eacute;e aux Brasseurs, centre d'art contemporain &agrave; li&egrave;ge.Fran&ccedil;ois Dufeil">
 

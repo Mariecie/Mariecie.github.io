@@ -6,6 +6,7 @@ preview: https://www.dropbox.com/s/pz8sy3b40vtkhal/Planter-une-flaque-preview.jp
 ---
 
 <img src="https://www.dropbox.com/s/pa1byuj6jmsd18w/Planter-une-flaque.jpg?raw=1" alt="Planter une flaque est une intervention dans l'espace public, un inox polimiroir est incrust&eacute; dans un parc de la ville d'Angers.Fran&ccedil;ois Dufeil">
+<p>&nbsp;</p>
 
 <img src="https://www.dropbox.com/s/oudu528hw0uaohv/Planter-flaque-detail.jpg?raw=1" alt="Planter une flaque est une intervention dans l'espace public, un inox polimiroir est incrust&eacute; dans un parc de la ville d'Angers.Fran&ccedil;ois Dufeil">
 

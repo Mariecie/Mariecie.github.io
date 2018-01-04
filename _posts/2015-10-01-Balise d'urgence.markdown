@@ -27,6 +27,7 @@ preview: https://www.dropbox.com/s/f9oc68d92b6gcvp/balise-urgence-preview.jpg?ra
 <br>
 
 <img src="https://www.dropbox.com/s/adkp2kk1tx90hgj/balise-urgence-plan.jpeg?raw=1" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Fran&ccedil;ois Dufeil">
+<p>&nbsp;</p>
 
 <img src="https://www.dropbox.com/s/2trjrtiaw7nync2/balise-urgence-plan%20%282%29.jpeg?raw=1" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Fran&ccedil;ois Dufeil">
 

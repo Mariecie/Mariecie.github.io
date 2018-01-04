@@ -6,6 +6,7 @@ preview: https://www.dropbox.com/s/vbmrjy8cdxp2my5/spot-de-replis-preview.jpg?ra
 ---
 
 <img src="https://www.dropbox.com/s/k5t7c4hvec8e0hb/spot-de-replis.jpg?raw=1" alt="Spot des replis, sculpture tir&eacute;e des gated communities est construite en grillage et acier, les cam&eacute;ra de surveillance regardent la Maison des Arts de Malakoff.Fran&ccedil;ois Dufeil">
+<p>&nbsp;</p>
 
 <img src="
 https://www.dropbox.com/s/650odcebfoamsm7/spot-de-replis-zoom.jpg?raw=1" alt="Spot des replis, sculpture tir&eacute;e des gated communities est construite en grillage et acier, les cam&eacute;ra de surveillance regardent la Maison des Arts de Malakoff.Fran&ccedil;ois Dufeil">

@@ -6,6 +6,7 @@ preview: https://www.dropbox.com/s/torw2w3875kon8e/folie-obsidionale-preview.jpg
 ---
 
 <img src="https://www.dropbox.com/s/4obs40xmuxebu87/folie-obsidionale.jpg?raw=1" alt="L'installation folie obsidionnale en acier et cypr&egrave;s pr&eacute;sent&eacute; &agrave; la galerie Arondit &agrave; Paris, exposition art contemporain avec le collectif Wonder.Fran&ccedil;ois Dufeil">
+<p>&nbsp;</p>
 
 <img src="https://www.dropbox.com/s/41bbeir2d7uxuyk/folie-obsidionale%20%282%29.jpg?raw=1" alt="L'installation folie obsidionnale en acier et cypr&egrave;s pr&eacute;sent&eacute; &agrave; la galerie Arondit &agrave; Paris, exposition art contemporain avec le collectif Wonder.Fran&ccedil;ois Dufeil">
 
@@ -15,6 +16,7 @@ preview: https://www.dropbox.com/s/torw2w3875kon8e/folie-obsidionale-preview.jpg
 <br>
 
 <img src="https://www.dropbox.com/s/e2jvs97dlmdvl5y/folie-obsidionnale-plan.jpg?raw=1" alt="L'installation folie obsidionnale en acier et cypr&egrave;s pr&eacute;sent&eacute; &agrave; la galerie Arondit &agrave; Paris, exposition art contemporain avec le collectif Wonder.Fran&ccedil;ois Dufeil">
+
 <p style="text-align:justify">
 <span style="font-style: italic;">Folie obsidionale</span> / dessin en plan / 2016. 
 
