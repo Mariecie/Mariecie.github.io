@@ -99,7 +99,9 @@
  * Page content
  */
 .page-content {
+    margin-top: 0;
     padding: $spacing-unit 0 ;
+    padding-top: 0;
 }
 
 .page-heading {
@@ -113,7 +115,7 @@
     > li {
 	margin-bottom: $spacing-unit;
     }
-}
+}    
 
 .post-meta {
     font-size: $small-font-size;
