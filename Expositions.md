@@ -6,7 +6,15 @@ permalink: /expositions/
 
 <p style="text-align:justify">
 <br />
+2018
+<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://loicarrez.xyz");return false;'>Loi Carrez</a></span>, 10 m2 sous le commissariat de Juliette Nier et d'Arslane Smirnov, Paris (75)
+<br> <span style="font-weight: bold;">Fré Gou</span>, bal et exposition,<a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Ferrailleur</a>, Bagnolet (93)
+</p>
+
+<p style="text-align:justify">
+<br />
 2017
+<br> <span style="font-weight: bold;">Lo Gars D'ici</span>, hommage à <a href="#" onclick='window.open("http://saeio.paris/");return false;'>Paul Saeio</a>, Bagnolet (93)
 <br> <span style="font-weight: bold;">Genius Loci</span>, <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>Wonder/Liebert</a>, Bagnolet (93)
 <br> <span style="font-weight: bold;">L'Actuel</span>, <a href="#" onclick='window.open("https://www.facebook.com/lagalerie.episodique");return false;'>Galerie &Eacute;pisodique</a>, Paris (75)   
 <br> <span style="font-weight: bold;">Dirty Pepax</span>,  inauguration du <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>Wonder/Liebert</a> en partenariat avec le <a href="#" onclick='window.open("http://www.palaisdetokyo.com/");return false;'>Palais de Tokyo</a>, Bagnolet (93)
