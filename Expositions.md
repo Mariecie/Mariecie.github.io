@@ -6,7 +6,7 @@ permalink: /expositions/
 
 <p style="text-align:justify">
 <br />
-Encours
+En cours
 <br> <span style="font-weight: bold;">L'Entre-Deux</span>, du 22 juin - 14 juillet 2018 à la <a href="#" onclick='window.open("https://www.facebook.com/lagalerie.episodique");return false;'>Galerie &Eacute;pisodique</a>, 111bis Boulevard de M&eacute;nilmontant 75011, Paris
 </p>
 
