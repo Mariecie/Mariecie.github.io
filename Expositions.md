@@ -6,7 +6,14 @@ permalink: /expositions/
 
 <p style="text-align:justify">
 <br />
+Encours
+<br> <span style="font-weight: bold;">L'Entre-Deux</span>, du 22 juin - 14 juillet 2018 à la <a href="#" onclick='window.open("https://www.facebook.com/lagalerie.episodique");return false;'>Galerie &Eacute;pisodique</a>, 111bis Boulevard de M&eacute;nilmontant 75011, Paris
+</p>
+
+<p style="text-align:justify">
+<br />
 2018
+<br> <span style="font-weight: bold;">Effet d'urgence</span> troisi&egrave;me opus du cycle Illusion of Erosion, commissariat <a href="#" onclick='window.open("http://andy-rankin.com/");return false;'>Andy Rankin</a>, <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, Bagnolet (93)
 <br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://loicarrez.xyz");return false;'>Loi Carrez</a></span>, 10 m2 sous le commissariat de Juliette Nier et d'Arslane Smirnov, Paris (75)
 <br> <span style="font-weight: bold;">Fré Gou</span>, bal et exposition,<a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Ferrailleur</a>, Bagnolet (93)
 </p>
