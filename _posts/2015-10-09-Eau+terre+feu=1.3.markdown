@@ -5,7 +5,7 @@ date:   2015-10-09 15:39:40
 preview: https://www.dropbox.com/s/dsmqnrs51tvwkit/francois-dufeil-Eau%2Bterre%2Bfeu%3D1.3-Arslan-Smirnov-preview.jpg?raw=1
 ---
 
-<img src="https://www.dropbox.com/s/rz6temcwgn348fi/francois-dufeil-Eau%2Bterre%2Bfeu%3D1.3-Arslan-Smirnov.jpg??raw=1" alt="eau+terre+feu=1:3, sculpture maquette en c&eacute;ramique repr&eacute;sentant une architecture en brique et pr&eacute;sent&eacute;e &agrave; la galerie RDV espace d'art contemporain &agrave; Nantes.Francois Dufeil">
+<img src="https://www.dropbox.com/s/rz6temcwgn348fi/francois-dufeil-Eau%2Bterre%2Bfeu%3D1.3-Arslan-Smirnov.jpg?raw=1" alt="eau+terre+feu=1:3, sculpture maquette en c&eacute;ramique repr&eacute;sentant une architecture en brique et pr&eacute;sent&eacute;e &agrave; la galerie RDV espace d'art contemporain &agrave; Nantes.Francois Dufeil">
 <p>&nbsp;</p>
 
 <img src="https://www.dropbox.com/s/srgo9hwfmbj5khp/francois-dufeil-Eau%2Bterre%2Bfeu%3D1.3.jpg?raw=1" alt="eau+terre+feu=1:3, sculpture maquette en c&eacute;ramique repr&eacute;sentant une architecture en brique et pr&eacute;sent&eacute;e &agrave; la galerie RDV espace d'art contemporain &agrave; Nantes.Francois Dufeil">
