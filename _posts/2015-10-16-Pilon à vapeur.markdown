@@ -20,12 +20,6 @@ preview: https://www.dropbox.com/s/junkomzobda80u3/pilon-a-vapeur-preview.jpeg?r
 <p style="text-align:justify">
 <span style="font-style: italic;">Pilon &agrave; vapeur</span> / sculpture g&eacute;n&eacute;ratrice / bouteilles de gaz, extincteurs, acier, laiton, aluminium, inox, b&eacute;ton, bois / 2 x 2 x 2,50 m / 2018.
 </p>
-
-
-
-<p style="text-align:right; font-size: 14px;">
-Cr&eacute;dits photo 9 Pierre Gaignard.
-</p>
 <br>
 
 

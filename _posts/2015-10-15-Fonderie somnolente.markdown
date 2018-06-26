@@ -45,7 +45,7 @@ preview: https://www.dropbox.com/s/dgd0npqjoex07mt/fonderie-preview.jpg?raw=1
 
 
 <p style="text-align:right; font-size: 14px;">
-Cr&eacute;dits photo 9 Pierre Gaignard.
+Cr&eacute;dits photo 10 Pierre Gaignard.
 </p>
 <br>
 
