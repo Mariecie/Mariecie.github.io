@@ -36,7 +36,6 @@ preview: https://www.dropbox.com/s/dgd0npqjoex07mt/fonderie-preview.jpg?raw=1
 <p>&nbsp;</p>
 
 <img src="https://www.dropbox.com/s/pa6rixlj7254jm3/fonderie.jpg?raw=1" alt="Fonderie somnolente.Fran&ccedil;ois Dufeil"> 
-<p>&nbsp;</p>
 
 
 <p style="text-align:justify">
