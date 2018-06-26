@@ -2,7 +2,7 @@
 layout: post
 title:  "FONDERIE SOMNOLENTE"
 date:   2015-10-15 15:39:40
-preview: https://www.dropbox.com/s/dgd0npqjoex07mt/fonderie-preview.jpg?raw=1
+preview: https://www.dropbox.com/s/dgd0npqjoex07mt/francois-dufeil-fonderie-preview.jpg?raw=1
 ---
 
 <img src="https://www.dropbox.com/s/giymvccxu0hj9ze/francois-dufeil-fonderie%20%281%29.jpg?raw=1" alt="Fonderie somnolente.Francois Dufeil"> 
@@ -39,7 +39,7 @@ preview: https://www.dropbox.com/s/dgd0npqjoex07mt/fonderie-preview.jpg?raw=1
 
 
 <p style="text-align:justify">
-<span style="font-style: italic;">Fonderie somnolente</span> / Sculpture génératrice / Bouteilles de gaz, b&eacute;ton, acier, bitume, bois, palan / 5 x 5 x 2 m / 2017.
+<span style="font-style: italic;">Fonderie somnolente</span> / sculpture g&eacute;n&eacute;ratrice / bouteilles de gaz, b&eacute;ton, acier, bitume, bois, palan / 5 x 5 x 2 m / 2017.
 </p>
 
 
