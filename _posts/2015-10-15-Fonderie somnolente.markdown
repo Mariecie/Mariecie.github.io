@@ -5,7 +5,9 @@ date:   2015-10-15 15:39:40
 preview: https://www.dropbox.com/s/dgd0npqjoex07mt/francois-dufeil-fonderie-preview.jpg?raw=1
 ---
 
-<iframe src="https://player.vimeo.com/video/241912834" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/241912834" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/241912834">Fonderie somnolente</a> de <a href="https://vimeo.com/user62863783">Fran&ccedil;ois Dufeil</a>.</p>
+<p>&nbsp;</p>
 
 <img src="https://www.dropbox.com/s/giymvccxu0hj9ze/francois-dufeil-fonderie%20%281%29.jpg?raw=1" alt="Fonderie somnolente.Francois Dufeil"> 
 <p>&nbsp;</p>
