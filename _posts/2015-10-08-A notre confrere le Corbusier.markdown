@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A NOTRE CONFR&Egrave;RE LE CORBUSIER"
-date:   2015-10-13 15:39:40
+date:   2015-10-08 15:39:40
 preview: https://www.dropbox.com/s/i1axw3bmvwkfsjf/francois-dufeil-a-notre-confrere-lecorbusier-2017-preview.jpg?raw=1
 ---
 

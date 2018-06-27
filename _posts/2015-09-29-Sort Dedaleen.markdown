@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SORT D&Eacute;DAL&Eacute;EN"
-date:   2015-10-03 15:39:40
+date:   2015-09-29 15:39:40
 preview: https://www.dropbox.com/s/xdgplgbjljwvebr/Sort-dedaleen-preview.jpg?raw=1 
 ---
 
