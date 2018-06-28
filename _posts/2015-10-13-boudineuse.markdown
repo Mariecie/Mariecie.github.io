@@ -8,10 +8,10 @@ preview: https://www.dropbox.com/s/z6msbeypul8lcx6/francois-dufeil-boudineuse-pr
 <img src="https://www.dropbox.com/s/ji0tz5e8cg379d3/francois-dufeil-boudineuse.jpg?raw=1" alt="Boudineuse.Francois Dufeil"> 
 <p>&nbsp;</p>
 
-<img src="https://www.dropbox.com/s/wgqas3e6jkvap42/francois-dufeil-boudineuse%20%282%29.jpg?raw=1" alt="Boudineuse.Francois Dufeil"> 
-<p>&nbsp;</p> 
-
 <img src="https://www.dropbox.com/s/65usp51mwq6bp3b/francois-dufeil-boudineuse%20%283%29.jpg?raw=1" alt="Boudineuse.Francois Dufeil"> 
+<p>&nbsp;</p>
+
+<img src="https://www.dropbox.com/s/wgqas3e6jkvap42/francois-dufeil-boudineuse%20%282%29.jpg?raw=1" alt="Boudineuse.Francois Dufeil"> 
 <p>&nbsp;</p> 
 
 <img src="https://www.dropbox.com/s/fj9cgsqe3rey5o6/francois-dufeil-boudineuse%20%284%29.jpg?raw=1" alt="Boudineuse.Francois Dufeil"> 
@@ -27,8 +27,6 @@ preview: https://www.dropbox.com/s/z6msbeypul8lcx6/francois-dufeil-boudineuse-pr
 <p>&nbsp;</p>
 
 <img src="https://www.dropbox.com/s/6wp2yjl77t3dhmx/francois-dufeil-boudineuse%20%288%29.jpg?raw=1" alt="Boudineuse.Francois Dufeil"> 
-<p>&nbsp;</p>
-
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Boudineuse</span> / sculpture g&eacute;n&eacute;ratrice / extincteurs, acier, aluminium, inox, corde / 1,60 x 0,2 x 0,2 m / 2018.
