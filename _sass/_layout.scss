@@ -25,7 +25,12 @@
     background-color: #a6a6a6;
 }
 
-
+.current {
+        color: $text-color;
+        font-weight: bold;
+	text-decoration: underline;
+}
+ 
 /**
  * Site footer
  */
