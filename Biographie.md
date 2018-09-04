@@ -12,26 +12,23 @@ Dipl&ocirc;m&eacute; de l&#39;Ecole Nationale Sup&eacute;rieure des Arts D&eacut
 <span style="font-color: #272727;">---------------</span> 
 <br/>
 <p style="text-align:justify">
-L'espace dit &laquo;public&raquo; est un miroir symptomatique dans lequel se refl&egrave;tent les modes de pens&eacute;es &eacute;tatiques. A l'int&eacute;rieur de cet espace, l'&laquo;urbain&raquo; est une ressource, une mati&egrave;re premi&egrave;re &agrave; examiner.
+Fonderie, pilon &agrave; vapeur, boudineuse, taloche : Il est n&eacute;cessaire que l’outil soit à la recherche d’une insurrection formelle. Haie d&eacute;fensive, maison carc&eacute;rale ou maquette prospective, ces instruments sont des indices sur nos conditions. L’outil et l’instrument sont r&eacute;v&eacute;lateurs d’un environnement inappropri&eacute;; O&ugrave; les dysfonctions et d&eacute;sint&eacute;grations du paysage urbanis&eacute; exacerbent les degr&eacute;s de violence qui nous sont impos&eacute;s.
 </p> 
 
 <p style="text-align:justify">
-Tout d'abord, il s'agirait de rappeler que les lieux de notre existence ne sont pas neutres. Ce sont les environnements que nous construisons qui, en grande partie, produisent ce que nous sommes. Evoluer dans un environnement hostile sera l'anticipation de notre devenir. 
+Revenir &agrave; l’origine de l’apparition de la forme et des mat&eacute;riaux est une tentative de leurs compr&eacute;hensions. Que les recherches soient architecturales ou sculpturales, elles fondent leur regard sur les m&eacute;thodes de production de notre environnement.
 </p> 
 
 <p style="text-align:justify">
-Mon mot d'ordre: s'impr&eacute;gner et pr&eacute;lever des fragments d&#39;espaces construits pour restituer des objets perturbateurs. Tout dessin produit et tout produit construit, influencent, dirigent et stigmatisent nos corps. Dysfonctions et  d&eacute;sint&eacute;grations du paysage urbanis&eacute; sont les moteurs de mes propositions.
+Apr&egrave;s tout, c’est avec les outils que l’on s’attaque à la restauration. Alors peut-être que leurs griffes, leurs pilons, leurs pressions, leurs combustions serviront un tant soit peu &agrave;
+mosit&eacute; architectonique.
 </p> 
 
 <p style="text-align:justify">
-Mes objets et outils tentent de remettre en cause le cloisonnement et le contr&ocirc;le en partant du principe que les termes : circuler - &ecirc;tre canalis&eacute; ont remplac&eacute; habiter - vivre. Ces propositions d&eacute;jouent &eacute;galement la rationalit&eacute;, le fonctionnalisme et l'obsolescence dans la production d'espace architectonique. Elles cherchent &agrave; exacerber les degr&eacute;s de violence impos&eacute;s par l'architecture dans notre quotidien. Plus pr&eacute;cis&eacute;ment, &agrave; r&eacute;v&eacute;ler l'animosit&eacute; qu'exerce l'architecture sur nos corps, ce 
-qu'elle induit, exclusion et forclusion.
+Parce qu’il y a n&eacute;cessit&eacute;, ces sculptures g&eacute;n&eacute;ratrices ne s’arrêtent pas sur la production en tant que finalit&eacute;, mais elles sont les moyens d’obtenir cette production. D&eacute;sormais, la sculpture devient son propre producteur.
 </p> 
 
-<p style="text-align:justify">
-Ces recherches dans le paysage urbanis&eacute; g&eacute;n&egrave;rent des propositions sous forme d&#39;installations et de sculptures, tant&ocirc;t dans un monde utopique, tant&ocirc;t dans une r&eacute;alit&eacute; dystopique.
-Convaincu de la pertinence du langage de la mati&egrave;re laiss&eacute;e &agrave; l'&eacute;tat brut, les mat&eacute;riaux de la construction seront une valeur ajout&eacute;e &agrave; la composition.  
-</p> 
+
 
 
 <p style="text-align:justify">
