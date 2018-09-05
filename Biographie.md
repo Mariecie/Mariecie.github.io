@@ -21,7 +21,7 @@ Revenir &agrave; l’origine de l’apparition de la forme et des mat&eacute;ria
 
 <p style="text-align:justify">
 Apr&egrave;s tout, c’est avec les outils que l’on s’attaque à la restauration. Alors peut-être que leurs griffes, leurs pilons, leurs pressions, leurs combustions serviront un tant soit peu &agrave;
-mosit&eacute; architectonique.
+panser l'animosit&eacute; architectonique.
 </p> 
 
 <p style="text-align:justify">
