@@ -7,7 +7,7 @@ permalink: /expositions/
 <p style="text-align:justify">
 <br />
 En cours
-<br> <span style="font-weight: bold;">Téquaté LO Niktété</span>, sous le comissariat d'Ingrid Luquet-Gad, Mécènes du sud, Montpellier (34)
+<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("https://www.enrevenantdelexpo.com/2018/09/20/tequate-lo-niktete-le-wonder-liebert-montpellier/");return false;'>Téquaté LO Niktété</a></span>, sous le comissariat d'Ingrid Luquet-Gad, Mécènes du sud, Montpellier (34)
 Du 14 septembre au 23 novembre 2018
 </p>
 
