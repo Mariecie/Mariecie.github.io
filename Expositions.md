@@ -4,7 +4,12 @@ title:
 permalink: /expositions/
 ---
 
-
+<p style="text-align:justify">
+<br />
+En cours
+<br> <span style="font-weight: bold;">Téquaté LO Niktété</span>, sous le comissariat d'Ingrid Luquet-Gad, Mécènes du sud, Montpellier (34)
+Du 14 septembre au 23 novembre 2018
+</p>
 
 <p style="text-align:justify">
 <br />
