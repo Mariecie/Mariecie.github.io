@@ -9,7 +9,6 @@ preview: https://www.dropbox.com/s/y0t8iopt74wet5f/francois-dufeil-melangeur-pre
 <p>&nbsp;</p>
 
 <img src="https://www.dropbox.com/s/93iubkq9bfu9aq1/francois-dufeil-melangeur%20%282%29.jpeg?raw=1" alt="Montpellier.Francois Dufeil"> 
-<p>&nbsp;</p> 
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Mélangeur</span> / sculpture g&eacute;n&eacute;ratrice / bouteilles de gaz, acier, laiton, gomme de cerisier, acide tartrique, figues torréfiées, eau de rivière  / 1200 x 1200 x 1200 mm / 2018 / exposition Téquaté Lo Niktété, Mécènes du sud, Montpellier.
