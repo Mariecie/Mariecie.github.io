@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FOLIE OBSIDIONALE"
-date:   2015-10-10 15:39:40
+date:   2015-10-09 15:39:40
 preview: https://www.dropbox.com/s/torw2w3875kon8e/francois-dufeil-folie-obsidionale-preview.jpg?raw=1
 ---
 

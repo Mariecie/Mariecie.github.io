@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OBLIT&Eacute;RATION"
-date:   2015-10-14 15:39:40
+date:   2015-10-13 15:39:40
 preview: https://www.dropbox.com/s/dmqhdxlomkchunh/obliteration-preview2.jpg?raw=1
 ---
 
