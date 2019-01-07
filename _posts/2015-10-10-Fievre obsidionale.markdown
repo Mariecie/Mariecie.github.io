@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FI&Egrave;VRE OBSIDIONALE"
-date:   2015-10-12 15:39:40
+date:   2015-10-10 15:39:40
 preview: https://www.dropbox.com/s/u3ozes49dgl8q53/francois-dufeil-Fievre-obsidionale-preview.jpg?raw=1
 ---
 
