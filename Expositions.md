@@ -8,7 +8,8 @@ permalink: /expositions/
 <p style="text-align:justify">
 <br />
 EN COURS
-<br> <span style="font-weight: bold;">PAPAPAPAPAAA PAPA PAAM</span>, exposition collective du <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, du 31 janvier au 2 mars 2019, Galerie Bertrand Grimont, Paris (75)
+<br> <span style="font-weight: bold;">Mondes compossibles</span>, exposition collective, sous le comissariat de Leslie Veisse, du 22 février au 21 avril 2019 à la Maison du Projet, Morland Living Lab, 17 Boulevard Morland, 75004, Paris.
+<br> <span style="font-weight: bold;">Papapapapaaa papa paam</span>, exposition collective du <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, du 31 janvier au 2 mars 2019, <a href="#" onclick='window.open("http://www.bertrandgrimont.com/");return false;'>Galerie Bertrand Grimont</a>, Paris (75)
 </p>
 
 <p style="text-align:justify">
