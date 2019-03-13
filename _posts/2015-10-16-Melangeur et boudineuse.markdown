@@ -27,7 +27,7 @@ preview: https://www.dropbox.com/s/y0t8iopt74wet5f/francois-dufeil-melangeur-pre
 
 
 <p style="text-align:right; font-size: 14px;">
-Cr&eacute;dits photos 2 et 4 Elise Ortiou Campion.
+Cr&eacute;dits photo 1 <a href="#" onclick='window.open("https://www.nelsonpernisco.com/expositions");return false;'>Nelson Pernisco</a>. Cr&eacute;dits photos 2 et 3 Cédrick Eymenier.
 </p>
 
 
