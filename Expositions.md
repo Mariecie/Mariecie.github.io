@@ -8,8 +8,14 @@ permalink: /expositions/
 <p style="text-align:justify">
 <br />
 EN COURS
+Résidence, invité par <a href="#" onclick='window.open("https://www.facebook.com/octoverso/");return false;'>Octo-Verso</a>, au <a href="#" onclick='window.open("http://www.collectifblast.com/presentation/");return false;'>PAD/BLAST</a> jusqu'au 30 mars. Ouverture d'atelier le 22 mars de 18h à 20h, Angers (49)
 <br> <span style="font-weight: bold;">Mondes compossibles</span>, exposition collective, sous le comissariat de Leslie Veisse, du 22 février au 21 avril 2019 à la Maison du Projet, Morland Living Lab, 17 Boulevard Morland, 75004, Paris.
-<br> <span style="font-weight: bold;">Papapapapaaa papa paam</span>, exposition collective du <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, du 31 janvier au 2 mars 2019, <a href="#" onclick='window.open("http://www.bertrandgrimont.com/");return false;'>Galerie Bertrand Grimont</a>, Paris (75)
+</p>
+
+<p style="text-align:justify">
+<br />
+2019
+<br> <span style="font-weight: bold;">Papapapapaaa papa paam</span>, exposition collective du <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, <a href="#" onclick='window.open("http://www.bertrandgrimont.com/");return false;'>Galerie Bertrand Grimont</a>, Paris (75)
 </p>
 
 <p style="text-align:justify">
