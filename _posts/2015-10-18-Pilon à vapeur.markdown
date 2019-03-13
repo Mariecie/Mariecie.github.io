@@ -8,9 +8,6 @@ preview: https://www.dropbox.com/s/junkomzobda80u3/francois-dufeil-pilon-a-vapeu
 <img src="https://www.dropbox.com/s/zj0wes7s9uu6qwy/francois-dufeil-Pilon-a-vapeur-2018.jpeg?raw=1" alt="Pilon &agrave; vapeur.Francois Dufeil"> 
 <p>&nbsp;</p>
 
-<img src="https://www.dropbox.com/s/a2sfj2gykfwtl47/francois-dufeil-Pilon-a-vapeur-2018%20%282%29.jpeg?raw=1" alt="Pilon &agrave; vapeur.Francois Dufeil"> 
-<p>&nbsp;</p> 
-
 <img src="https://www.dropbox.com/s/kjdrnd514qz94qf/francois-dufeil-Pilon-a-vapeur-2018%20%283%29.jpeg?raw=1" alt="Pilon &agrave; vapeur.Francois Dufeil"> 
 <p>&nbsp;</p> 
 
