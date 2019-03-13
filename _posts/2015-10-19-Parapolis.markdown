@@ -28,6 +28,10 @@ preview: https://www.dropbox.com/s/2r3t2rtgc7g90mw/francois-dufeil-Parapolis-pho
 </p>
 <br>
 
+<p style="text-align:right; font-size: 14px;">
+Cr&eacute;dits photos Vignette, 1, 3, 4 et 5 Charlotte Donker-Toscan. Cr&eacute;dits photo 2 Marie Dufeil.
+</p>
+
 
 
 

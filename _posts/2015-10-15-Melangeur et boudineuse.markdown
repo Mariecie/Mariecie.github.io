@@ -27,7 +27,7 @@ preview: https://www.dropbox.com/s/y0t8iopt74wet5f/francois-dufeil-melangeur-pre
 
 
 <p style="text-align:right; font-size: 14px;">
-Cr&eacute;dits photos 2 et 4.
+Cr&eacute;dits photos 2 et 4 Elise Ortiou Campion.
 </p>
 
 
