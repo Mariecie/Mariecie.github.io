@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MELANGEUR ET BOUDINEUSE"
-date:   2015-10-15 15:39:40
+date:   2015-10-16 15:39:40
 preview: https://www.dropbox.com/s/y0t8iopt74wet5f/francois-dufeil-melangeur-preview.jpeg?raw=1
 ---
 

@@ -1,15 +1,12 @@
 ---
 layout: post
 title:  "BOUDINEUSE"
-date:   2015-10-16 15:39:40
+date:   2015-10-14 15:39:40
 preview: https://www.dropbox.com/s/z6msbeypul8lcx6/francois-dufeil-boudineuse-preview.jpg?raw=1
 ---
 
 <img src="https://www.dropbox.com/s/wgqas3e6jkvap42/francois-dufeil-boudineuse%20%282%29.jpg?raw=1" alt="Boudineuse.Francois Dufeil"> 
 <p>&nbsp;</p> 
-
-<img src="https://www.dropbox.com/s/ji0tz5e8cg379d3/francois-dufeil-boudineuse.jpg?raw=1" alt="Boudineuse.Francois Dufeil"> 
-<p>&nbsp;</p>
 
 <img src="https://www.dropbox.com/s/fj9cgsqe3rey5o6/francois-dufeil-boudineuse%20%284%29.jpg?raw=1" alt="Boudineuse.Francois Dufeil"> 
 <p>&nbsp;</p>
