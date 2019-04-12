@@ -4,6 +4,15 @@ title:
 permalink: /expositions/
 ---
 
+<p style="text-align:justify">
+<br />
+A VENIR
+<br> <span style="font-weight: bold;">La ruche : une architecture de survie</span>, événement dans le cadre de l'exposition collective <span style="font-weight: bold;">Mondes compossibles</span>, conversation avec Dominique Céna, apiculteur, secrétaire général adjoint et porte-parole adjoint de l'Union Nationale de l'Apiculture Française, et François Dufeil, artiste, le 13 avril de 15h à 16h30, au Morland Living Lab, 17 boulevard Morland, 750004 Paris.
+<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/548-l-exposition-2019.htm");return false;'>64ème Salon de Montrouge</a></span>, du 27 avril au 22 mai 2019 au Beffroi, 2 place Emile Cesp, 92120, Montrouge.
+Vernissage le 26 avril à partir de 19h30.
+<br><span style="font-weight: bold;">Eclats d'urgence</span>, du 8 mai au au 15 juin, sur une invitation de Jérôme Mayer, dans la vitrine jeune artiste du centre d'art <a href="#" onclick='window.open("http://www.lesbrasseurs.org/");return false;'>Les Brasseurs</a>, art contemporain, Rue du pont, 26/28,4000, Liège (Belgique). 
+Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre dans l'espace principal.
+Vernissage le 4 mai à partir de 18h. 
 
 <p style="text-align:justify">
 <br />
