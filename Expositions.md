@@ -7,8 +7,6 @@ permalink: /expositions/
 <p style="text-align:justify">
 <br />
 A VENIR
-<br> <span style="font-weight: bold;">La ruche : une architecture de survie</span>, événement dans le cadre de l'exposition collective <span style="font-style: italic;">Mondes compossibles</span>, conversation avec Dominique Céna, apiculteur, secrétaire général adjoint et porte-parole adjoint de l'Union Nationale de l'Apiculture Française, et François Dufeil, artiste, le 13 avril de 15h à 16h30, au Morland Living Lab, 17 boulevard Morland, 750004 Paris.
-<br>
 <br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/548-l-exposition-2019.htm");return false;'>64ème Salon de Montrouge</a></span>, du 27 avril au 22 mai 2019 au Beffroi, 2 place Emile Cesp, 92120, Montrouge.
 Vernissage le 26 avril à partir de 19h30.
 <br>
@@ -18,13 +16,9 @@ Vernissage le 4 mai à partir de 18h.
 
 <p style="text-align:justify">
 <br />
-EN COURS
-<br> <span style="font-weight: bold;">Mondes compossibles</span>, exposition collective, sous le comissariat de Leslie Veisse, du 22 février au 21 avril 2019 à la Maison du Projet, Morland Living Lab, 17 Boulevard Morland, 75004, Paris.
-</p>
-
-<p style="text-align:justify">
-<br />
 2019
+<br> <span style="font-weight: bold;">La ruche : une architecture de survie</span>, événement dans le cadre de l'exposition collective <span style="font-style: italic;">Mondes compossibles</span>, conversation avec Dominique Céna, apiculteur, secrétaire général adjoint et porte-parole adjoint de l'Union Nationale de l'Apiculture Française, et François Dufeil, artiste, Morland Living Lab, Paris (75)
+<br> <span style="font-weight: bold;">Mondes compossibles</span>, exposition collective, sous le comissariat de Leslie Veisse, à la Maison du Projet, Morland Living Lab, Paris (75)
 <br><span style="font-weight: bold;">Résidence</span>, invité par <a href="#" onclick='window.open("https://www.facebook.com/octoverso/");return false;'>Octo-Verso</a>, au <a href="#" onclick='window.open("http://www.collectifblast.com/presentation/");return false;'>PAD/BLAST</a>, Angers (49)
 <br><span style="font-weight: bold;">100%</span>, exposition collective dans le cadre du <a href="#" onclick='window.open("https://lavillette.com/tag/festival-100_t113/1");return false;'> festival 100% de La Villette</a>, la Grande Halle de La Villette, Paris (75) 
 <br><span style="font-weight: bold;">Papapapapaaa papa paam</span>, exposition collective du <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, <a href="#" onclick='window.open("http://www.bertrandgrimont.com/");return false;'>Galerie Bertrand Grimont</a>, Paris (75)
