@@ -9,7 +9,6 @@ permalink: /expositions/
 A VENIR
 <br><span style="font-weight: bold;">Eclats d'urgence</span>, du 8 mai au 15 juin, sur une invitation de Jérôme Mayer, dans la vitrine jeune artiste du centre d'art <a href="#" onclick='window.open("http://www.lesbrasseurs.org/");return false;'>Les Brasseurs</a>, art contemporain, Rue du pont, 26/28,4000, Liège (Belgique). 
 Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre dans l'espace principal.
-Vernissage le 4 mai à partir de 18h. 
 
 <p style="text-align:justify">
 <br />
