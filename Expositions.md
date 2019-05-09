@@ -6,13 +6,9 @@ permalink: /expositions/
 
 <p style="text-align:justify">
 <br />
-A VENIR
+EN COURS
 <br><span style="font-weight: bold;">Eclats d'urgence</span>, du 8 mai au 15 juin, sur une invitation de Jérôme Mayer, dans la vitrine jeune artiste du centre d'art <a href="#" onclick='window.open("http://www.lesbrasseurs.org/");return false;'>Les Brasseurs</a>, art contemporain, Rue du pont, 26/28,4000, Liège (Belgique). 
 Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre dans l'espace principal.
-
-<p style="text-align:justify">
-<br />
-EN COURS
 <br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/548-l-exposition-2019.htm");return false;'>64ème Salon de Montrouge</a></span>, du 27 avril au 22 mai 2019 au Beffroi, 2 place Emile Cesp, 92120, Montrouge.
 
 <p style="text-align:justify">
