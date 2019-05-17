@@ -7,8 +7,8 @@ permalink: /contact/
 <p style="text-align:justify">
 <br> FRAN&Ccedil;OIS DUFEIL
 <br> 
-<br> 124 Avenue Gallieni 
-<br> 93170 Bagnolet 
+<br> 167/169 Avenue Pablo Picasso
+<br> 92000 Nanterre 
 <br> France
 <br> 
 <br> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
