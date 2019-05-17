@@ -15,6 +15,7 @@ Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre d
 
 <p style="text-align:justify">
 <br />
+<br>
 2019
 <br>
 <br> <span style="font-weight: bold;">La ruche : une architecture de survie</span>, conversation avec Dominique Céna, apiculteur, secrétaire général adjoint et porte-parole adjoint de l'Union Nationale de l'Apiculture Française, Leslie Veisse et François Dufeil, Mondes compossibles, Morland Living Lab, Paris (75)
@@ -30,6 +31,7 @@ Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre d
 
 <p style="text-align:justify">
 <br />
+<br>
 2018
 <br>
 <br> <span style="font-weight: bold;"><a href="#" onclick='window.open("https://www.enrevenantdelexpo.com/2018/09/20/tequate-lo-niktete-le-wonder-liebert-montpellier/");return false;'>Téquaté LO Niktété</a></span>, sous le comissariat d'Ingrid Luquet-Gad, Mécènes du sud, Montpellier (34)
@@ -45,6 +47,7 @@ Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre d
 
 <p style="text-align:justify">
 <br />
+<br>
 2017
 <br>
 <br> <span style="font-weight: bold;">Lo Gars D'ici</span>, hommage à <a href="#" onclick='window.open("http://saeio.paris/");return false;'>Paul Saeio</a>, Bagnolet (93)
@@ -58,6 +61,7 @@ Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre d
 
 <p style="text-align:justify">
 <br />
+<br>
 2016
 <br>
 <br> <span style="font-weight: bold;">It's a dream</span>, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75)
@@ -76,6 +80,7 @@ De Blocs Pour Quatre Mains</span>, sous le commissariat de <a href="#" onclick='
 
 <p style="text-align:justify">
 <br />
+<br>
 2015
 <br>
 <br> <span style="font-weight: bold;"> D&eacute;sert / Tabernas & Bardenas : des lieux di&eacute;g&eacute;tiques</span>, Angers (49)
@@ -87,6 +92,7 @@ De Blocs Pour Quatre Mains</span>, sous le commissariat de <a href="#" onclick='
 
 <p style="text-align:justify">
 <br />
+<br>
 2013
 <br>
 <br> <span style="font-weight: bold;">Prospectives architecturales</span>, Angers (49)
@@ -98,6 +104,7 @@ De Blocs Pour Quatre Mains</span>, sous le commissariat de <a href="#" onclick='
 
 <p style="text-align:justify">
 <br />
+<br>
 2012
 <br>
 <br> <span style="font-weight: bold;">Art by Telephone recall</span>, r&eacute;alisation d'une oeuvre de <a href="#" onclick='window.open("https://fr.wikipedia.org/wiki/Dominique_Blais");return false;'>Dominique Blais</a>, Angers (49)
