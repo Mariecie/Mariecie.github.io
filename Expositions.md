@@ -84,7 +84,6 @@ De Blocs Pour Quatre Mains</span>, sous le commissariat de <a href="#" onclick='
 2015
 <br>
 <br> <span style="font-weight: bold;"> D&eacute;sert / Tabernas & Bardenas : des lieux di&eacute;g&eacute;tiques</span>, Angers (49)
-<br>
 <br> Sous le commissariat de <a href="#" onclick='window.open("http://www.reseaux-artistes.fr/dossiers/pierre-besson?lng=fr");return false;'>Pierre Besson</a>, <a href="#" onclick='window.open("http://www.hurteau.org/");return false;'>Philippe Hurteau</a> et Christophe Le Gac, &agrave;  la galerie L'Art en t&ecirc;te du lyc&eacute;e David d'Angers
 <br>
 <br> <span style="font-weight: bold;">Faire montrer l'o&iuml;kos</span>, exposition, concerts, lancement du collectif Caniard, Saint-Mathurin-sur-Loire (49) <a href="#" onclick='window.open("https://www.youtube.com/watch?v=8jVoWUsMYk8");return false;'>Vid&eacute;o</a> 
@@ -96,7 +95,6 @@ De Blocs Pour Quatre Mains</span>, sous le commissariat de <a href="#" onclick='
 2013
 <br>
 <br> <span style="font-weight: bold;">Prospectives architecturales</span>, Angers (49)
-<br>
 <br> En collaboration avec la mairie d'Angers et la SARA (Soci&eacute;t&eacute; d'Economie Mixte de la r&eacute;gion d'Angers)
 <br>
 <br> <span style="font-weight: bold;">Elstir - passerelle pour l'art</span>, centre culturel, Saint-Rapha&euml;l (83)
@@ -108,7 +106,6 @@ De Blocs Pour Quatre Mains</span>, sous le commissariat de <a href="#" onclick='
 2012
 <br>
 <br> <span style="font-weight: bold;">Art by Telephone recall</span>, r&eacute;alisation d'une oeuvre de <a href="#" onclick='window.open("https://fr.wikipedia.org/wiki/Dominique_Blais");return false;'>Dominique Blais</a>, Angers (49)
-<br>
 <br> R&eacute;activation de l'exposition art by telephone &eacute;dit&eacute;e par le <a href="#" onclick='window.open("https://www.moma.org/");return false;'>MOMA</a> en 1969. Art by telephone recall expos&eacute;e dans quatre lieux simultan&eacute;ment (<a href="#" onclick='window.open("http://angers.esba-talm.fr/");return false;'>Esba TALM d'Angers</a>, <a href="#" onclick='window.open("http://www.capc-bordeaux.fr/");return false;'>CAPC de Bordeaux</a>, <a href="#" onclick='window.open("http://emilyharveyfoundation.org/");return false;'>The Emily Harvey Foundation de New York</a> et le <a href="#" onclick='window.open("http://www.sfai.edu/");return false;'>San Francisco Art Institute</a>)
 </p>
 
