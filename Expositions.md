@@ -10,13 +10,14 @@ EN COURS
 <br>
 <br><span style="font-weight: bold;">Eclats d'urgence</span>, du 8 mai au 15 juin, sur une invitation de Jérôme Mayer, dans la vitrine jeune artiste du centre d'art <a href="#" onclick='window.open("http://www.lesbrasseurs.org/p/francois-dufeil-fr.html");return false;'>Les Brasseurs</a>, art contemporain, Rue du pont, 26/28,4000, Liège (Belgique). 
 Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre dans l'espace principal.
-<br>
-<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/548-l-exposition-2019.htm");return false;'>64ème Salon de Montrouge</a></span>, du 27 avril au 22 mai 2019 au Beffroi, 2 place Emile Cesp, 92120, Montrouge.
+</p>
 
 <p style="text-align:justify">
 <br />
 <br>
 2019
+<br>
+<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/548-l-exposition-2019.htm");return false;'>64ème Salon de Montrouge</a></span>, Montrouge (92)
 <br>
 <br> <span style="font-weight: bold;">La ruche : une architecture de survie</span>, conversation avec Dominique Céna, apiculteur, secrétaire général adjoint et porte-parole adjoint de l'Union Nationale de l'Apiculture Française, Leslie Veisse et François Dufeil, Mondes compossibles, Morland Living Lab, Paris (75)
 <br>
