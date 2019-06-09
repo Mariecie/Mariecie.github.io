@@ -6,9 +6,17 @@ permalink: /expositions/
 
 <p style="text-align:justify">
 <br />
+A VENIR
+<br>
+<br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposé par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58) 
+<br><span style="font-weight: bold;">CLÔTURE 06 / 2016 - 06 / 2019</span>, exposition collective, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75) 
+</p>
+
+<p style="text-align:justify">
+<br />
 EN COURS
 <br>
-<br><span style="font-weight: bold;">Eclats d'urgence</span>, du 8 mai au 15 juin, sur une invitation de Jérôme Mayer, dans la vitrine jeune artiste du centre d'art <a href="#" onclick='window.open("http://www.lesbrasseurs.org/p/francois-dufeil-fr.html");return false;'>Les Brasseurs</a>, art contemporain, Rue du pont, 26/28,4000, Liège (Belgique). 
+<br><span style="font-weight: bold;">ECLATS D'URGENCE</span>, du 8 mai au 15 juin, sur une invitation de Jérôme Mayer, dans la vitrine jeune artiste du centre d'art <a href="#" onclick='window.open("http://www.lesbrasseurs.org/p/francois-dufeil-fr.html");return false;'>Les Brasseurs</a>, art contemporain, Rue du pont, 26/28,4000, Liège (Belgique). 
 Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre dans l'espace principal.
 </p>
 
@@ -17,17 +25,12 @@ Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre d
 <br>
 2019
 <br>
-<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/548-l-exposition-2019.htm");return false;'>64ème Salon de Montrouge</a></span>, Montrouge (92)
-<br>
-<br> <span style="font-weight: bold;">La ruche : une architecture de survie</span>, conversation avec Dominique Céna, apiculteur, secrétaire général adjoint et porte-parole adjoint de l'Union Nationale de l'Apiculture Française, Leslie Veisse et François Dufeil, Mondes compossibles, Morland Living Lab, Paris (75)
-<br>
-<br> <span style="font-weight: bold;">Mondes compossibles</span>, exposition collective, sous le comissariat de Leslie Veisse, à la Maison du Projet, Morland Living Lab, Paris (75)
-<br>
-<br><span style="font-weight: bold;">Résidence</span>, invité par <a href="#" onclick='window.open("https://www.facebook.com/octoverso/");return false;'>Octo-Verso</a>, au <a href="#" onclick='window.open("http://www.collectifblast.com/presentation/");return false;'>PAD/BLAST</a>, Angers (49)
-<br>
+<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/548-l-exposition-2019.htm");return false;'>64ème SALON DE MONTROUGE</a></span>, Montrouge (92)
+<br> <span style="font-weight: bold;">LA RUCHE : UNE ARCHITECTURE DE SURVIE</span>, conversation avec Dominique Céna, apiculteur, secrétaire général adjoint et porte-parole adjoint de l'Union Nationale de l'Apiculture Française, Leslie Veisse et François Dufeil, Mondes compossibles, Morland Living Lab, Paris (75)
+<br> <span style="font-weight: bold;">MONDES COMPOSSIBLES</span>, exposition collective, sous le comissariat de Leslie Veisse, à la Maison du Projet, Morland Living Lab, Paris (75)
+<br><span style="font-weight: bold;">RÉSUDENCE</span>, invité par <a href="#" onclick='window.open("https://www.facebook.com/octoverso/");return false;'>Octo-Verso</a>, au <a href="#" onclick='window.open("http://www.collectifblast.com/presentation/");return false;'>PAD/BLAST</a>, Angers (49)
 <br><span style="font-weight: bold;">100%</span>, exposition collective dans le cadre du <a href="#" onclick='window.open("https://lavillette.com/tag/festival-100_t113/1");return false;'> festival 100% de La Villette</a>, la Grande Halle de La Villette, Paris (75)
-<br> 
-<br><span style="font-weight: bold;">Papapapapaaa papa paam</span>, exposition collective du <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, <a href="#" onclick='window.open("http://www.bertrandgrimont.com/");return false;'>Galerie Bertrand Grimont</a>, Paris (75)
+<br><span style="font-weight: bold;">PAPAPAPAPAA PAPA PAAM</span>, exposition collective du <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, <a href="#" onclick='window.open("http://www.bertrandgrimont.com/");return false;'>Galerie Bertrand Grimont</a>, Paris (75)
 </p>
 
 <p style="text-align:justify">
