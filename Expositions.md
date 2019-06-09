@@ -50,13 +50,10 @@ Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre d
 <br>
 2017
 <br>
-<br> <span style="font-weight: bold;">Lo Gars D'ici</span>, hommage à <a href="#" onclick='window.open("http://saeio.paris/");return false;'>Paul Saeio</a>, Bagnolet (93)
-<br>
-<br> <span style="font-weight: bold;">Genius Loci</span>, <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>Wonder/Liebert</a>, Bagnolet (93)
-<br>
-<br> <span style="font-weight: bold;">L'Actuel</span>, <a href="#" onclick='window.open("https://www.facebook.com/lagalerie.episodique");return false;'>Galerie &Eacute;pisodique</a>, Paris (75)
-<br> 
-<br> <span style="font-weight: bold;">Dirty Pepax</span>,  inauguration du <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>Wonder/Liebert</a> en partenariat avec le <a href="#" onclick='window.open("http://www.palaisdetokyo.com/");return false;'>Palais de Tokyo</a>, Bagnolet (93)
+<br> <span style="font-weight: bold;">LO GARS D'ICI</span>, hommage à <a href="#" onclick='window.open("http://saeio.paris/");return false;'>Paul Saeio</a>, Bagnolet (93)
+<br> <span style="font-weight: bold;">GENIUS LOCI</span>, <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>Wonder/Liebert</a>, Bagnolet (93)
+<br> <span style="font-weight: bold;">L'ACTUEL</span>, <a href="#" onclick='window.open("https://www.facebook.com/lagalerie.episodique");return false;'>Galerie &Eacute;pisodique</a>, Paris (75)
+<br> <span style="font-weight: bold;">DIRTY PEPAX</span>,  inauguration du <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>Wonder/Liebert</a> en partenariat avec le <a href="#" onclick='window.open("http://www.palaisdetokyo.com/");return false;'>Palais de Tokyo</a>, Bagnolet (93)
 </p>
 
 <p style="text-align:justify">
@@ -64,18 +61,13 @@ Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre d
 <br>
 2016
 <br>
-<br> <span style="font-weight: bold;">It's a dream</span>, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75)
-<br>
-<br> <span style="font-weight: bold;">R&eacute;sidence perform&eacute;e, Les Intrus #3 - Les parasites ouvriers</span>, activation de la performance de <a href="#" onclick='window.open("http://www.claudecattelain.com/");return false;'>Claude Cattelain</a>, <span style="font-style: italic;">Suite
+<br> <span style="font-weight: bold;">IT'S A DREAM</span>, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75)
+<br> <span style="font-weight: bold;">RÉSIDENCE PERFORMÉE, LES INTRUS #3 - LES PARASITES OUVRIERS</span>, activation de la performance de <a href="#" onclick='window.open("http://www.claudecattelain.com/");return false;'>Claude Cattelain</a>, <span style="font-style: italic;">Suite
 De Blocs Pour Quatre Mains</span>, sous le commissariat de <a href="#" onclick='window.open("http://floriangaite.fr/accueil/");return false;'>Florian Gait&eacute;</a>, <a href="#" onclick='window.open("http://maisondesarts.malakoff.fr/");return false;'>Maison des Arts de Malakoff</a> (92)
-<br>
-<br> <span style="font-weight: bold;">Du sang, du labeur des larmes et de la sueur</span>, sous le commissariat de <a href="#" onclick='window.open("http://andy-rankin.com/");return false;'>Andy Rankin</a>, au sein de l'ancienne usine de pile Wonder, &agrave; Saint Ouen (93)
-<br>
-<br> <span style="font-weight: bold;">Les intrus : trouble dans l'habitat</span>, sous le commissariat de <a href="#" onclick='window.open("http://floriangaite.fr/accueil/");return false;'>Florian Gait&eacute;</a>, <a href="#" onclick='window.open("http://maisondesarts.malakoff.fr/");return false;'>Maison des Arts de Malakoff</a> (92)
-<br>
-<br> <span style="font-weight: bold;">Stonehenge</span>, <a href="#" onclick='window.open("http://galerierdv.com/");return false;'>galerie RDV</a>, Nantes (44)
-<br>
-<br> <span style="font-weight: bold;">Outside (Ecume - Scum)</span>, exposition, workshop au centre d'art contemporain <a href="#" onclick='window.open("http://www.lesbrasseurs.org/");return false;'>Les Brasseurs</a>, Li&egrave;ge, Belgique
+<br> <span style="font-weight: bold;">DU SANG, DU LABEUR, DES LARMES ET DE LA SUEUR</span>, sous le commissariat de <a href="#" onclick='window.open("http://andy-rankin.com/");return false;'>Andy Rankin</a>, au sein de l'ancienne usine de pile Wonder, &agrave; Saint Ouen (93)
+<br> <span style="font-weight: bold;">LES INTRUS : TROUBLE DANS L'HABITAT</span>, sous le commissariat de <a href="#" onclick='window.open("http://floriangaite.fr/accueil/");return false;'>Florian Gait&eacute;</a>, <a href="#" onclick='window.open("http://maisondesarts.malakoff.fr/");return false;'>Maison des Arts de Malakoff</a> (92)
+<br> <span style="font-weight: bold;">STONEHENGE</span>, <a href="#" onclick='window.open("http://galerierdv.com/");return false;'>galerie RDV</a>, Nantes (44)
+<br> <span style="font-weight: bold;">OUTSIDE (ECUME - SCUM)</span>, exposition, workshop au centre d'art contemporain <a href="#" onclick='window.open("http://www.lesbrasseurs.org/");return false;'>Les Brasseurs</a>, Li&egrave;ge, Belgique
 </p>
 
 <p style="text-align:justify">
