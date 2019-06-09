@@ -25,10 +25,10 @@ Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre d
 <br>
 2019
 <br>
-<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/548-l-exposition-2019.htm");return false;'>64ème SALON DE MONTROUGE</a></span>, Montrouge (92)
+<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/548-l-exposition-2019.htm");return false;'>64ÈME SALON DE MONTROUGE</a></span>, Montrouge (92)
 <br> <span style="font-weight: bold;">LA RUCHE : UNE ARCHITECTURE DE SURVIE</span>, conversation avec Dominique Céna, apiculteur, secrétaire général adjoint et porte-parole adjoint de l'Union Nationale de l'Apiculture Française, Leslie Veisse et François Dufeil, Mondes compossibles, Morland Living Lab, Paris (75)
 <br> <span style="font-weight: bold;">MONDES COMPOSSIBLES</span>, exposition collective, sous le comissariat de Leslie Veisse, à la Maison du Projet, Morland Living Lab, Paris (75)
-<br><span style="font-weight: bold;">RÉSUDENCE</span>, invité par <a href="#" onclick='window.open("https://www.facebook.com/octoverso/");return false;'>Octo-Verso</a>, au <a href="#" onclick='window.open("http://www.collectifblast.com/presentation/");return false;'>PAD/BLAST</a>, Angers (49)
+<br><span style="font-weight: bold;">RÉSIDENCE</span>, invité par <a href="#" onclick='window.open("https://www.facebook.com/octoverso/");return false;'>Octo-Verso</a>, au <a href="#" onclick='window.open("http://www.collectifblast.com/presentation/");return false;'>PAD/BLAST</a>, Angers (49)
 <br><span style="font-weight: bold;">100%</span>, exposition collective dans le cadre du <a href="#" onclick='window.open("https://lavillette.com/tag/festival-100_t113/1");return false;'> festival 100% de La Villette</a>, la Grande Halle de La Villette, Paris (75)
 <br><span style="font-weight: bold;">PAPAPAPAPAA PAPA PAAM</span>, exposition collective du <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, <a href="#" onclick='window.open("http://www.bertrandgrimont.com/");return false;'>Galerie Bertrand Grimont</a>, Paris (75)
 </p>
@@ -38,15 +38,11 @@ Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre d
 <br>
 2018
 <br>
-<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("https://www.enrevenantdelexpo.com/2018/09/20/tequate-lo-niktete-le-wonder-liebert-montpellier/");return false;'>Téquaté LO Niktété</a></span>, sous le comissariat d'Ingrid Luquet-Gad, Mécènes du sud, Montpellier (34)
-<br>
-<br> <span style="font-weight: bold;">Effet d'urgence</span> troisi&egrave;me opus du cycle Illusion of Erosion, commissariat <a href="#" onclick='window.open("http://andy-rankin.com/");return false;'>Andy Rankin</a>, <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, Bagnolet (93)
-<br>
-<br> <span style="font-weight: bold;">L'Entre-Deux</span>, <a href="#" onclick='window.open("https://www.facebook.com/lagalerie.episodique");return false;'>Galerie &Eacute;pisodique</a>, Paris (75)
-<br>
-<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://loicarrez.xyz");return false;'>Loi Carrez</a></span>, 10 m2 sous le commissariat de Juliette Nier et d'Arslane Smirnov, Paris (75)
-<br>
-<br> <span style="font-weight: bold;">Fré Gou</span>, bal et exposition,<a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Ferrailleur</a>, Bagnolet (93)
+<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("https://www.enrevenantdelexpo.com/2018/09/20/tequate-lo-niktete-le-wonder-liebert-montpellier/");return false;'>TÉQUATÉ LO NIKTÉTÉ</a></span>, sous le comissariat d'Ingrid Luquet-Gad, Mécènes du sud, Montpellier (34)
+<br> <span style="font-weight: bold;">EFFET D'URGENCE</span> troisi&egrave;me opus du cycle Illusion of Erosion, commissariat <a href="#" onclick='window.open("http://andy-rankin.com/");return false;'>Andy Rankin</a>, <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, Bagnolet (93)
+<br> <span style="font-weight: bold;">L'ENTRE-DEUX</span>, <a href="#" onclick='window.open("https://www.facebook.com/lagalerie.episodique");return false;'>Galerie &Eacute;pisodique</a>, Paris (75)
+<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://loicarrez.xyz");return false;'>LOI CARREZ</a></span>, 10 m2 sous le commissariat de Juliette Nier et d'Arslane Smirnov, Paris (75)
+<br> <span style="font-weight: bold;">FRÉ GOU</span>, bal et exposition,<a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Ferrailleur</a>, Bagnolet (93)
 </p>
 
 <p style="text-align:justify">
