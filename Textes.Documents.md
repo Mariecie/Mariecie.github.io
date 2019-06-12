@@ -17,7 +17,7 @@ Sarah Ihler-Meyer
 <p>&nbsp;</p>
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">Émission Bulle d'Art du 13 mai 2019 :</span> <a href="#" onclick='window.open("https://podcast.ausha.co/bulle-d-art/bba5?fbclid=IwAR0JtgmUINOGcCnIIU4FA3UGqjfvMCgK5sDvHbc9ZubKQuWcSeVB2wyyHXM");return false;'>[n°40] La BIG Bulle d'Art n°5 : spécial Salon de Montrouge</a> <a href="#" onclick='window.open("https://file.ausha.co/pxfy9yXBomaozVmNk3zMbj08cHvB3KnFsOtlnC1I.mp3?token=sFy76i2seONXRRhu7p9TnA&expires=1560363160");return false;'>[Podcast]</a>
+<span style="font-weight: bold;">Émission Bulle d'Art du 13 mai 2019 :</span> <a href="#" onclick='window.open("https://file.ausha.co/pxfy9yXBomaozVmNk3zMbj08cHvB3KnFsOtlnC1I.mp3?token=sFy76i2seONXRRhu7p9TnA&expires=1560363160");return false;'>[Podcast]</a>
 </p>
 
 <span style="font-color: #272727;">---------------</span> 
