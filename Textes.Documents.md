@@ -13,12 +13,6 @@ C’est au sein du collectif Wonder/Liebert, dont il est l’un des membres fond
 <p>&nbsp;</p>
 Sarah Ihler-Meyer
 <p>&nbsp;</p>
-<iframe src="https://podcast.ausha.co/bulle-d-art/bba5?fbclid=IwAR0JtgmUINOGcCnIIU4FA3UGqjfvMCgK5sDvHbc9ZubKQuWcSeVB2wyyHXM" width="100%" height="360" frameborder="0" ></iframe>
-</p>
-
-<span style="font-color: #272727;">---------------</span> 
-<br/>
-
 
 <span style="font-color: #272727;">---------------</span> 
 <br/>
@@ -58,4 +52,3 @@ Sarah Ihler-Meyer
 </p>
 
 <iframe src="https://player.vimeo.com/video/206077793" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p>&nbsp;</p>
