@@ -25,7 +25,7 @@ Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre d
 <br>
 2019
 <br>
-<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/548-l-exposition-2019.htm");return false;'>64ÈME SALON DE MONTROUGE</a></span>, Montrouge (92)
+<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/1039-francois-dufeil.htm");return false;'>64ÈME SALON DE MONTROUGE</a></span>, Montrouge (92)
 <br> <span style="font-weight: bold;">LA RUCHE : UNE ARCHITECTURE DE SURVIE</span>, conversation avec Dominique Céna, apiculteur, secrétaire général adjoint et porte-parole adjoint de l'Union Nationale de l'Apiculture Française, Leslie Veisse et François Dufeil, Mondes compossibles, Morland Living Lab, Paris (75)
 <br> <span style="font-weight: bold;">MONDES COMPOSSIBLES</span>, exposition collective, sous le comissariat de Leslie Veisse, à la Maison du Projet, Morland Living Lab, Paris (75)
 <br><span style="font-weight: bold;">RÉSIDENCE</span>, invité par <a href="#" onclick='window.open("https://www.facebook.com/octoverso/");return false;'>Octo-Verso</a>, au <a href="#" onclick='window.open("http://www.collectifblast.com/presentation/");return false;'>PAD/BLAST</a>, Angers (49)
