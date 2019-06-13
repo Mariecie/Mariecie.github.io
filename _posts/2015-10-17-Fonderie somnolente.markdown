@@ -8,9 +8,6 @@ preview: https://www.dropbox.com/s/dgd0npqjoex07mt/francois-dufeil-fonderie-prev
 <img src="https://www.dropbox.com/s/giymvccxu0hj9ze/francois-dufeil-fonderie%20%281%29.jpg?raw=1" alt="Fonderie somnolente.Francois Dufeil"> 
 <p>&nbsp;</p>
 
-<iframe src="https://player.vimeo.com/video/241912834" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p>&nbsp;</p>
-
 <img src="https://www.dropbox.com/s/ik21uwva743l8r6/francois-dufeil-fonderie%20%2810%29.jpg?raw=1" alt="Fonderie somnolente.Francois Dufeil">
 <p>&nbsp;</p>
 
@@ -45,7 +42,8 @@ preview: https://www.dropbox.com/s/dgd0npqjoex07mt/francois-dufeil-fonderie-prev
 <span style="font-style: italic;">Fonderie somnolente</span> / sculpture g&eacute;n&eacute;ratrice / bouteilles de gaz, b&eacute;ton, acier, bitume, bois, palan / 5 x 5 x 2 m / 2017.
 </p>
 
-
+<iframe src="https://player.vimeo.com/video/241912834" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p>&nbsp;</p>
 
 <p style="text-align:right; font-size: 14px;">
 Cr&eacute;dits photo 10 Pierre Gaignard.
