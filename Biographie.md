@@ -34,9 +34,3 @@ Parce qu’il y a n&eacute;cessit&eacute;, ces sculptures g&eacute;n&eacute;ratr
 <p style="text-align:justify">
 <span style="font-weight: bold;">T&eacute;l&eacute;charger mon CV</span> <a href="#" onclick='window.open("https://www.dropbox.com/s/ugaevu2ofdvxi47/CV-Francois-Dufeil.pdf?raw=1");return false;'>[PDF]</a>
 </p>
-
-
-<p style="text-align:justify">
-<span style="font-weight: bold;">T&eacute;l&eacute;charger mon CV</span> <a href="#" onclick='window.open("https://file.ausha.co/pxfy9yXBomaozVmNk3zMbj08cHvB3KnFsOtlnC1I.mp3?token=jpkj5_qI2BH9EkhKNmTy9w&expires=1560435581");return false;'>[PDF]</a>
-</p>
-
