@@ -4,7 +4,7 @@ title:
 permalink: /textes/documents/
 ---
 
-<span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/1039-francois-dufeil.htm");return false;'>64ème salon de Montrouge</a></span>, 2019. 
+<span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/1039-francois-dufeil.htm");return false;'>64ème salon de Montrouge</a></span>, 2019 
 
 <p style="text-align:justify">
 Opposer des contre-dispositifs aux dispositifs, se réapproprier les moyens de production pour créer des sortes de zones d’autonomie temporaire : voici les principaux axes de travail de François Dufeil, donnant lieu à des installations, des maquettes, mais aussi à des sculptures-outils fonctionnant en circuit ouvert, disponibles pour de nouveaux agencements et usages. Nul hasard si, avant d’intégrer les Beaux-arts d’Angers, l’artiste a commencé son parcours chez les Compagnons du Devoir du Tour de France, un apprentissage dont il a conservé l’ambition de faire communauté dans une logique de collaboration et de partage des savoirs.
@@ -27,17 +27,21 @@ Sarah Ihler-Meyer
 <br/>
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">Mondes compossibles</span>, 2019.
+<span style="font-weight: bold;">Mondes compossibles</span>, 2019
 </p>
 
 <iframe src="https://player.vimeo.com/video/341789998" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>&nbsp;</p>
 
+<p style="text-align:right; font-size: 14px;">
+Cr&eacute;dits Victor Moati @Rue Sedaine production.
+</p>
+
 <span style="font-color: #272727;">---------------</span> 
 <br/>
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">Pilon &agrave; vapeur</span> / sculpture g&eacute;n&eacute;ratrice / bouteilles de gaz, extincteurs, acier, laiton, aluminium, inox, b&eacute;ton, bois / 2 x 2 x 2,50 m / 2018.
+<span style="font-weight: bold;">Pilon &agrave; vapeur</span> / sculpture g&eacute;n&eacute;ratrice / bouteilles de gaz, extincteurs, acier, laiton, aluminium, inox, b&eacute;ton, bois / 2 x 2 x 2,50 m / 2018
 </p>
 
 <iframe src="https://player.vimeo.com/video/276490207" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -47,7 +51,7 @@ Sarah Ihler-Meyer
 <br/>
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">Fonderie somnolente</span> / sculpture g&eacute;n&eacute;ratrice / bouteilles de gaz, b&eacute;ton, acier, bitume, bois, palan / 5 x 5 x 2 m / 2017.
+<span style="font-weight: bold;">Fonderie somnolente</span> / sculpture g&eacute;n&eacute;ratrice / bouteilles de gaz, b&eacute;ton, acier, bitume, bois, palan / 5 x 5 x 2 m / 2017
 </p>
 
 <iframe src="https://player.vimeo.com/video/241912834" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -57,7 +61,7 @@ Sarah Ihler-Meyer
 <br/>
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">Dialogue de sourds</span> / dysfonction / pose d'un cartel / lampadaires / 30 x 13 m / 2014.
+<span style="font-weight: bold;">Dialogue de sourds</span> / dysfonction / pose d'un cartel / lampadaires / 30 x 13 m / 2014
 </p>
 
 <iframe src="https://player.vimeo.com/video/206077793" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -67,7 +71,7 @@ Sarah Ihler-Meyer
 <br/>
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">De la d&eacute;flagration de l'emprunt</span> / pr&eacute;l&egrave;vements d'empreintes sonores / bunkers, pistolet, balles &agrave; blanc, microphones / 2013.
+<span style="font-weight: bold;">De la d&eacute;flagration de l'emprunt</span> / pr&eacute;l&egrave;vements d'empreintes sonores / bunkers, pistolet, balles &agrave; blanc, microphones / 2013
 </p>
 
 <iframe src="https://player.vimeo.com/video/205879083" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
