@@ -15,7 +15,7 @@ A VENIR
 <br />
 EN COURS
 <br>
-<br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposé par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
+<br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposée par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
 </p>
 
 <p style="text-align:justify">
