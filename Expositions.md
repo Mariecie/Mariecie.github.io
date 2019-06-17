@@ -8,7 +8,6 @@ permalink: /expositions/
 <br />
 A VENIR
 <br>
-<br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposé par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58) 
 <br><span style="font-weight: bold;">CLÔTURE 06 / 2016 - 06 / 2019</span>, exposition collective, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75) 
 </p>
 
@@ -16,8 +15,7 @@ A VENIR
 <br />
 EN COURS
 <br>
-<br><span style="font-weight: bold;">ECLATS D'URGENCE</span>, du 8 mai au 15 juin, sur une invitation de Jérôme Mayer, dans la vitrine jeune artiste du centre d'art <a href="#" onclick='window.open("http://www.lesbrasseurs.org/p/francois-dufeil-fr.html");return false;'>Les Brasseurs</a>, art contemporain, Rue du pont, 26/28,4000, Liège (Belgique). 
-Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre dans l'espace principal.
+<br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposé par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
 </p>
 
 <p style="text-align:justify">
@@ -25,6 +23,7 @@ Simultanément, Agnès Goeffray ouvrira son exposition Verticales du désordre d
 <br>
 2019
 <br>
+<br><span style="font-weight: bold;">ECLATS D'URGENCE</span>, sur une invitation de Jérôme Mayer, dans la vitrine jeune artiste du centre d'art <a href="#" onclick='window.open("http://www.lesbrasseurs.org/p/francois-dufeil-fr.html");return false;'>Les Brasseurs</a>, Liège (Belgique)
 <br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/1039-francois-dufeil.htm");return false;'>64ÈME SALON DE MONTROUGE</a></span>, Montrouge (92)
 <br> <span style="font-weight: bold;">LA RUCHE : UNE ARCHITECTURE DE SURVIE</span>, conversation avec Dominique Céna, apiculteur, secrétaire général adjoint et porte-parole adjoint de l'Union Nationale de l'Apiculture Française, Leslie Veisse et François Dufeil, Mondes compossibles, Morland Living Lab, Paris (75)
 <br> <span style="font-weight: bold;">MONDES COMPOSSIBLES</span>, exposition collective, sous le comissariat de Leslie Veisse, à la Maison du Projet, Morland Living Lab, Paris (75)
