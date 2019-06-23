@@ -6,16 +6,10 @@ permalink: /expositions/
 
 <p style="text-align:justify">
 <br />
-A VENIR
-<br>
-<br><span style="font-weight: bold;">CLÔTURE 06 / 2016 - 06 / 2019</span>, exposition collective, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75) 
-</p>
-
-<p style="text-align:justify">
-<br />
 EN COURS
 <br>
 <br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposée par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
+<br><span style="font-weight: bold;">CLÔTURE 06 / 2016 - 06 / 2019</span>, exposition collective, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75) 
 </p>
 
 <p style="text-align:justify">
