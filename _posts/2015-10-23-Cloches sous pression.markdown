@@ -6,9 +6,9 @@ preview: "https://www.dropbox.com/s/kdp4qnwnhg5bd3e/francois-dufeil-cloches-sous
 ---
 
 <img src="https://www.dropbox.com/s/sgzetiec30nanlm/francois-dufeil-cloches-sous-pression.jpg?raw=1" alt="Cloches sous pression.Francois Dufeil"> 
+<p>&nbsp;</p> 
 
 <img src="https://www.dropbox.com/s/ur4dyuphcnty2zc/francois-dufeil-cloches-sous-pression%20%282%29.jpg?raw=1" alt="Cloches sous pression.Francois Dufeil"> 
-<p>&nbsp;</p> 
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Baguettes</span> / Charles Dubois.
@@ -18,7 +18,7 @@ preview: "https://www.dropbox.com/s/kdp4qnwnhg5bd3e/francois-dufeil-cloches-sous
 <img src="https://www.dropbox.com/s/cqqx10zh9zqvvhg/francois-dufeil-cloches-sous-pression%20%283%29.jpg?raw=1" alt="Cloches sous pression.Francois Dufeil"> 
 
 <p style="text-align:justify">
-<span style="font-style: italic;">Cloches sous pression</span> / sculpture-outil / activation sonore Charles Dubois / bouteilles de gaz, acier noir, laiton, corde chanvre, eau / 2019 / Pavillon des sources du Parc Saint Léger, centre d’art contemporain.
+<span style="font-style: italic;">Cloches sous pression</span> / sculpture-outil / activation sonore Charles Dubois / bouteilles de gaz, acier noir, laiton, corde chanvre, eau / 2019 / Pavillon des sources du Parc Saint Léger, <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/francois-dufeil/");return false;'>centre d’art contemporain</a>.
 </p>
 <br>
 
