@@ -6,6 +6,14 @@ permalink: /expositions/
 
 <p style="text-align:justify">
 <br />
+A VENIR
+<br>
+<br><span style="font-weight: bold;">RÉSIDENCE MOLY-SABATA</span>, avec Marine Wallon, Sablons (38)
+<br><span style="font-weight: bold;">RÉSIDENCE LES CHARPENTIERS DE LA CORSE</span>, avec le collectif Le Wonder, Morosaglia (20)
+</p>
+
+<p style="text-align:justify">
+<br />
 EN COURS
 <br>
 <br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposée par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
