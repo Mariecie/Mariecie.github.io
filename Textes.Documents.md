@@ -31,7 +31,6 @@ Sarah Ihler-Meyer
 </p>
 
 <iframe src="https://player.vimeo.com/video/341789998" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p>&nbsp;</p>
 
 <p style="text-align:right; font-size: 14px;">
 Cr&eacute;dits Victor Moati @Rue Sedaine production.
