@@ -16,7 +16,6 @@ A VENIR
 <br />
 EN COURS
 <br>
-<br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposée par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/francois-dufeil/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
 <br><span style="font-weight: bold;">CLÔTURE 06 / 2016 - 06 / 2019</span>, exposition collective, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75) 
 </p>
 
@@ -25,6 +24,7 @@ EN COURS
 <br>
 2019
 <br>
+<br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposée par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/francois-dufeil/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
 <br><span style="font-weight: bold;">ECLATS D'URGENCE</span>, sur une invitation de Jérôme Mayer, dans la vitrine jeune artiste du centre d'art <a href="#" onclick='window.open("http://www.lesbrasseurs.org/p/francois-dufeil-fr.html");return false;'>Les Brasseurs</a>, Liège (Belgique)
 <br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/1039-francois-dufeil.htm");return false;'>64ÈME SALON DE MONTROUGE</a></span>, Montrouge (92)
 <br> <span style="font-weight: bold;">LA RUCHE : UNE ARCHITECTURE DE SURVIE</span>, conversation avec Dominique Céna, apiculteur, secrétaire général adjoint et porte-parole adjoint de l'Union Nationale de l'Apiculture Française, Leslie Veisse et François Dufeil, Mondes compossibles, Morland Living Lab, Paris (75)
