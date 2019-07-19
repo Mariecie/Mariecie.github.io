@@ -16,6 +16,11 @@ Sarah Ihler-Meyer
 </p>
 <p>&nbsp;</p>
 
+<span style="font-color: #272727;">---------------</span> 
+<br/>
+
+<span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/1039-francois-dufeil.htm");return false;'>64ème salon de Montrouge</a></span>, 2019 
+
 <p style="text-align:justify">
 <span style="font-weight: bold;">Émission Bulle d'Art du 13 mai 2019 :</span> <a href="#" onclick='window.open("https://podcast.ausha.co/bulle-d-art/bba5?fbclid=IwAR0JtgmUINOGcCnIIU4FA3UGqjfvMCgK5sDvHbc9ZubKQuWcSeVB2wyyHXM");return false;'>[n°40] La BIG Bulle d'Art n°5 : spécial Salon de Montrouge</a>
 </p>
