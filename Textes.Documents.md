@@ -14,7 +14,6 @@ C’est au sein du collectif Wonder/Liebert, dont il est l’un des membres fond
 <p style="text-align:justify">
 Sarah Ihler-Meyer
 </p>
-<p>&nbsp;</p>
 
 <span style="font-color: #272727;">---------------</span> 
 <br/>
