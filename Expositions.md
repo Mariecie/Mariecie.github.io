@@ -9,14 +9,13 @@ permalink: /expositions/
 A VENIR
 <br>
 <br><span style="font-weight: bold;">RÉSIDENCE MOLY-SABATA</span>, avec Marine Wallon, Sablons (38)
-<br><span style="font-weight: bold;">RÉSIDENCE LES CHARPENTIERS DE LA CORSE</span>, avec le collectif Le Wonder, Morosaglia (20)
 </p>
 
 <p style="text-align:justify">
 <br />
 EN COURS
 <br>
-<br><span style="font-weight: bold;">CLÔTURE 06 / 2016 - 06 / 2019</span>, exposition collective, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75) 
+<br><span style="font-weight: bold;">RÉSIDENCE UTOPIA, LES CHARPENTIERS DE LA CORSE</span>, avec le collectif Le Wonder, Morosaglia (20)
 </p>
 
 <p style="text-align:justify">
@@ -24,6 +23,7 @@ EN COURS
 <br>
 2019
 <br>
+<br><span style="font-weight: bold;">CLÔTURE 06 / 2016 - 06 / 2019</span>, exposition collective, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75) 
 <br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposée par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/francois-dufeil/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
 <br><span style="font-weight: bold;">ECLATS D'URGENCE</span>, sur une invitation de Jérôme Mayer, dans la vitrine jeune artiste du centre d'art <a href="#" onclick='window.open("http://www.lesbrasseurs.org/p/francois-dufeil-fr.html");return false;'>Les Brasseurs</a>, Liège (Belgique)
 <br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.salondemontrouge.com/1039-francois-dufeil.htm");return false;'>64ÈME SALON DE MONTROUGE</a></span>, Montrouge (92)
