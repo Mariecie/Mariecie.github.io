@@ -19,6 +19,14 @@ EN COURS
 </p>
 
 <p style="text-align:justify">
+<span style="font-weight: bold;">T&eacute;l&eacute;chargez le dossier de presse</span> <a href="#" onclick='window.open("https://www.dropbox.com/s/u8kyxaoi5f9t0o7/dossier%20presse%20Utopia%202019.pdf?raw=1");return false;'>[PDF]</a>
+</p>
+
+<p style="text-align:justify">
+<span style="font-weight: bold;">Visualizez l'affiche</span> <a href="#" onclick='window.open("https://www.dropbox.com/s/epfo2mk9hej1xv3/Affiche%20Utopia%202019.jpg?raw=1");return false;'>[PDF]</a>
+</p>
+
+<p style="text-align:justify">
 <br />
 <br>
 2019
