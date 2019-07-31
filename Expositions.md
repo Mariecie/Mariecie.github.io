@@ -15,7 +15,7 @@ A VENIR
 <br />
 EN COURS
 <br>
-<br><span style="font-weight: bold;">RÉSIDENCE UTOPIA, LES CHARPENTIERS DE LA CORSE</span>, avec le collectif Le Wonder, Morosaglia (20)
+<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://art-utopia.fr/francois-dufeil/");return false;'>RÉSIDENCE UTOPIA</a>, <a href="#" onclick='window.open("http://www.lescharpentiersdelacorse.com/l-entreprise-et-l-art-charpentiers-de-la-corse-13-fr.html");return false;'>LES CHARPENTIERS DE LA CORSE</a></span>, avec <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>le collectif Le Wonder</a>, Morosaglia (20)
 </p>
 
 <p style="text-align:justify">
