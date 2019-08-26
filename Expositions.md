@@ -11,26 +11,13 @@ A VENIR
 <br><span style="font-weight: bold;">RÉSIDENCE MOLY-SABATA</span>, avec Marine Wallon, Sablons (38)
 </p>
 
-<p style="text-align:justify">
-<br />
-EN COURS
-<br>
-<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://art-utopia.fr/francois-dufeil/");return false;'>RÉSIDENCE UTOPIA</a>, <a href="#" onclick='window.open("http://www.lescharpentiersdelacorse.com/l-entreprise-et-l-art-charpentiers-de-la-corse-13-fr.html");return false;'>LES CHARPENTIERS DE LA CORSE</a></span>, avec <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>le collectif Le Wonder</a>, Morosaglia (20)
-</p>
-
-<p style="text-align:justify">
-<span style="font-weight: bold;">T&eacute;l&eacute;chargez le dossier de presse</span> <a href="#" onclick='window.open("https://www.dropbox.com/s/u8kyxaoi5f9t0o7/dossier%20presse%20Utopia%202019.pdf?raw=1");return false;'>[PDF]</a>
-</p>
-
-<p style="text-align:justify">
-<span style="font-weight: bold;">Visualizez l'affiche</span> <a href="#" onclick='window.open("https://www.dropbox.com/s/epfo2mk9hej1xv3/Affiche%20Utopia%202019.jpg?raw=1");return false;'>[PDF]</a>
-</p>
 
 <p style="text-align:justify">
 <br />
 <br>
 2019
 <br>
+<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://art-utopia.fr/francois-dufeil/");return false;'>RÉSIDENCE UTOPIA</a>, <a href="#" onclick='window.open("http://www.lescharpentiersdelacorse.com/l-entreprise-et-l-art-charpentiers-de-la-corse-13-fr.html");return false;'>LES CHARPENTIERS DE LA CORSE</a></span>, avec <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>le collectif Le Wonder</a>, Morosaglia (20)
 <br><span style="font-weight: bold;">CLÔTURE 06 / 2016 - 06 / 2019</span>, exposition collective, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75) 
 <br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposée par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/francois-dufeil/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
 <br><span style="font-weight: bold;">ECLATS D'URGENCE</span>, sur une invitation de Jérôme Mayer, dans la vitrine jeune artiste du centre d'art <a href="#" onclick='window.open("http://www.lesbrasseurs.org/p/francois-dufeil-fr.html");return false;'>Les Brasseurs</a>, Liège (Belgique)
