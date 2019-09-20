@@ -9,7 +9,7 @@ permalink: /expositions/
 A VENIR
 <br>
 <br><span style="font-weight: bold;">CLOCHES SOUS PRESSION</span>, activation sonore de Charles Dubois, Pavillon des Sources, <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/cloches-sous-pression/");return false;'>Centre d’art contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
-Dimanche 22 septembre à 17h.
+<br>Dimanche 22 septembre à 17h.
 <br><span style="font-weight: bold;">RÉSIDENCE MOLY-SABATA</span>, avec Marine Wallon, Sablons (38)
 </p>
 
