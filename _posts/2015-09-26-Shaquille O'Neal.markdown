@@ -2,7 +2,7 @@
 layout: post
 title:  "SHAQUILLE O'NEAL"
 date:   2015-09-26 15:39:40
-preview: https://www.mmmycloud.com/index.php/s/25mEstTetAYjwGjraw=1
+preview: https://www.mmmycloud.com/index.php/s/25mEstTetAYjwGj
 ---
 
 <img src="https://www.mmmycloud.com/index.php/s/25mEstTetAYjwGj" alt="Shaquille O'Neal est une basket reebok pump, une mod&eacute;lisation 3D qui est taill&eacute; dans du marbre de Carrare et du ch&ecirc;ne massif, d'apr&egrave;s le mod&egrave;le original du basketteur.Fran&ccedil;ois Dufeil">
