@@ -5,7 +5,7 @@ date:   2015-09-27 15:39:40
 preview: https://www.dropbox.com/s/jtfvc6bkgcsepjs/francois-dufeil-dispositif-de-museification-preview.jpg?raw=1
 ---
 
-<iframe src="https://player.vimeo.com/video/206077793" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/PoKN1jmso6s" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Dialogue de sourds</span> / dysfonction / pose d'un cartel / lampadaires / 30 x 13 m / 2014.
