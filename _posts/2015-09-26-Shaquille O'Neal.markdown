@@ -6,7 +6,7 @@ preview: https://www.dropbox.com/s/3yijqgpgn0j0o6i/Shaquille-o%27Neal-preview.jp
 ---
 
 <center>
-  <img src="{{ '/images/Shaquille-O'Neal-dessus.jpg' | relative_url }}" alt="Shaquille O'Neal est une basket reebok pump, une mod&eacute;lisation 3D qui est taill&eacute; dans du marbre de Carrare et du ch&ecirc;ne massif, d'apr&egrave;s le mod&egrave;le original du basketteur.Fran&ccedil;ois Dufeil">
+  <img src="{{ 'images/Shaquille-O'Neal-dessus.jpg' | relative_url }}" alt="Shaquille O'Neal est une basket reebok pump, une mod&eacute;lisation 3D qui est taill&eacute; dans du marbre de Carrare et du ch&ecirc;ne massif, d'apr&egrave;s le mod&egrave;le original du basketteur.Fran&ccedil;ois Dufeil">
 </center>
 <p>&nbsp;</p>
 
