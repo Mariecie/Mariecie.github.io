@@ -17,6 +17,7 @@ A VENIR
 <br>
 2019
 <br>
+<br><span style="font-weight: bold;">CLOCHES SOUS PRESSION</span>, activation sonore de Charles Dubois, Pavillon des Sources, <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/cloches-sous-pression/");return false;'>Centre d’art contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://art-utopia.fr/francois-dufeil/");return false;'>RÉSIDENCE UTOPIA</a>, <a href="#" onclick='window.open("http://www.lescharpentiersdelacorse.com/l-entreprise-et-l-art-charpentiers-de-la-corse-13-fr.html");return false;'>LES CHARPENTIERS DE LA CORSE</a></span>, avec <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>le collectif Le Wonder</a>, Morosaglia (20)
 <br><span style="font-weight: bold;">CLÔTURE 06 / 2016 - 06 / 2019</span>, exposition collective, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75) 
 <br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposée par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/francois-dufeil/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)

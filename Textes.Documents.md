@@ -34,7 +34,7 @@ Sarah Ihler-Meyer
 <span style="font-weight: bold;">Mondes compossibles</span>, 2019
 </p>
 
-<iframe src="https://player.vimeo.com/video/341789998" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/5o-lqYFr5AM" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p style="text-align:right; font-size: 14px;">
 Cr&eacute;dits Victor Moati @Rue Sedaine production.
