@@ -2,34 +2,34 @@
 layout: post
 title:  "BALISE D'URGENCE"
 date:   2015-10-01 15:39:40
-preview: https://www.dropbox.com/s/f9oc68d92b6gcvp/francois-dufeil-balise-urgence-preview.jpg?raw=1
+preview: https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-balise-urgence-preview.jpg
 ---
 
-<img src="https://www.dropbox.com/s/51s8imcvp2erp3u/francois-dufeil-balise-maquette-1.3.jpg?raw=1" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Francois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-balise-maquette-1.3.jpg" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Francois Dufeil">
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Balise d'urgence</span>   / coffrage g&eacute;n&eacute;rateur d'architecture / sculpture &eacute;chelle 1 : 3 / contreplaqu&eacute; bak&eacute;lis&eacute;, vis / 1370 x 900 mm / 2014.
 </p>
 <br>
 
-<img src="https://www.dropbox.com/s/wvxx9ftglsihpoo/francois-dufeil-balise-urgence-maquette.jpg?raw=1" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Francois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-balise-urgence-maquette.jpg" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Francois Dufeil">
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Balise d'urgence</span> / maquette / ciment / 100 x 100 x 200 mm / 2014.
 </p>
 <br>
 
-<img src="https://www.dropbox.com/s/9tt8gwzjiz73815/francois-dufeil-balise-urgence.jpg?raw=1" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Francois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-balise-urgence.jpg" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Francois Dufeil">
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Balise d'urgence</span>   / mod&eacute;lisation du coffrage g&eacute;n&eacute;rateur d'architecture / contreplaqu&eacute; bak&eacute;lis&eacute;, bastaing, vis / 4,11 x 2,70 m / 2014.
 </p>
 <br>
 
-<img src="https://www.dropbox.com/s/adkp2kk1tx90hgj/francois-dufeil-balise-urgence-plan.jpeg?raw=1" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Francois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-balise-urgence-plan.jpeg" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Francois Dufeil">
 <p>&nbsp;</p>
 
-<img src="https://www.dropbox.com/s/2trjrtiaw7nync2/francois-dufeil-balise-urgence-plan%20%282%29.jpeg?raw=1" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Francois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-balise-urgence-plan%20(2).jpeg" alt="Balise d'urgence est un coffrage en contreplaqu&eacute; bak&eacute;lis&eacute;, une architecture d'urgence dans un urbanisme dystopique.Francois Dufeil">
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Balise d'urgence</span> / plans / 2014.
