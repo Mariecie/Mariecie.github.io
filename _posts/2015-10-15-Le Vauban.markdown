@@ -2,17 +2,17 @@
 layout: post
 title:  "LE VAUBAN"
 date:   2015-10-15 15:39:40
-preview: https://www.dropbox.com/s/0j9xifabivrtykr/le-vauban-preview3.jpg?raw=1
+preview: https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/le-vauban-preview3.jpg
 ---
 
-<img src="https://www.dropbox.com/s/ayw8upktkrnmc8b/Le-Vauban-2017%20%284%29.jpg?raw=1" alt="Le Vauban.Fran&ccedil;ois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/Le-Vauban-2017%20(4).jpg" alt="Le Vauban.Fran&ccedil;ois Dufeil">
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Le Vauban</span> / monnaie obsidionale / aluminium / quantit&eacute; variable / 2017.
 </p>
 <br>
 
-<img src="https://www.dropbox.com/s/6e4eirg4fc5road/Le-Vauban-2017%20%282%29.jpg?raw=1" alt="Le Vauban.Fran&ccedil;ois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/Le-Vauban-2017%20(2).jpg" alt="Le Vauban.Fran&ccedil;ois Dufeil">
 
 <p style="text-align:justify">
 Fabrication d'une fonderie issue de modèles open source, afin de produire une monnaie obsidionale / bouteilles de gaz, extincteurs, bois / 1200 x 800 x 2100 mm / 2017.
@@ -20,23 +20,23 @@ Fabrication d'une fonderie issue de modèles open source, afin de produire une m
 <br> 
 
 
-<img src="https://www.dropbox.com/s/5m4884186u8s88t/Le-Vauban-2017%20%283%29.jpg?raw=1" alt="Le Vauban.Fran&ccedil;ois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/Le-Vauban-2017%20(3).jpg" alt="Le Vauban.Fran&ccedil;ois Dufeil">
 <p>&nbsp;</p>
 
-<img src="https://www.dropbox.com/s/y67auiipyli7jnb/Le-Vauban-2017%20%285%29.jpg?raw=1" alt="Le Vauban.Fran&ccedil;ois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/Le-Vauban-2017%20(5).jpg" alt="Le Vauban.Fran&ccedil;ois Dufeil">
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Le Vauban</span> / monnaie obsidionale / aluminium / quantit&eacute; variable / 2017.
 </p>
 <br>
 
-<img src="https://www.dropbox.com/s/jkt83wrqoqlzkbe/Le-Vauban-2018-mise-en-circulation%20%283%29.jpeg?raw=1" alt="Le Vauban, mise en circulation.Fran&ccedil;ois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/Le-Vauban-2018-mise-en-circulation%20(3).jpeg" alt="Le Vauban, mise en circulation.Fran&ccedil;ois Dufeil">
 <p>&nbsp;</p>
 
-<img src="https://www.dropbox.com/s/u3f67d4th1wapo0/Le-Vauban-2018-mise-en-circulation%20%281%29.jpeg?raw=1" alt="Le Vauban, mise en circulation.Fran&ccedil;ois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/Le-Vauban-2018-mise-en-circulation%20(1).jpeg" alt="Le Vauban, mise en circulation.Fran&ccedil;ois Dufeil">
 <p>&nbsp;</p>
 
-<img src="https://www.dropbox.com/s/znz69x19u4osod8/Le-Vauban-2018-mise-en-circulation%20%282%29.jpeg?raw=1" alt="Le Vauban, mise en circulation.Fran&ccedil;ois Dufeil">
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/Le-Vauban-2018-mise-en-circulation%20(2).jpeg" alt="Le Vauban, mise en circulation.Fran&ccedil;ois Dufeil">
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Mise en circulation</span> / monnaie obsidionale / aluminium / quantit&eacute; variable / 2017.
