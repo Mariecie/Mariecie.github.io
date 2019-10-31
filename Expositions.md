@@ -8,8 +8,9 @@ permalink: /expositions/
 <br />
 EN COURS
 <br>
-<br><span style="font-weight: bold;">RÉSIDENCE MOLY-SABATA</span>, avec Marine Wallon, Sablons (38)
+<br><span style="font-weight: bold;""><a href="#" onclick='window.open(http://www.moly-sabata.com/2019/10/francois-dufeil-marine-wallon/;return false;'>RÉSIDENCE MOLY-SABATA</a></span>, avec Marine Wallon, Sablons (38)
 </p>
+
 
 
 <p style="text-align:justify">
