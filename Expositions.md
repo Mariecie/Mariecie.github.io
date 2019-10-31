@@ -6,7 +6,7 @@ permalink: /expositions/
 
 <p style="text-align:justify">
 <br />
-A VENIR
+EN COURS
 <br>
 <br><span style="font-weight: bold;">RÉSIDENCE MOLY-SABATA</span>, avec Marine Wallon, Sablons (38)
 </p>
