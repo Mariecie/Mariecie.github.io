@@ -1,27 +1,27 @@
 ---
 layout: post
-title:  "CLOCHES SOUS PRESSION"
-date:   2015-10-23 15:39:40
-preview: "https://www.dropbox.com/s/kdp4qnwnhg5bd3e/francois-dufeil-cloches-sous-pression-preview.jpg?raw=1"
+title:  "U CARBONARU"
+date:   2015-10-24 15:39:40
+preview: "https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-U-Carbonaru-preview.jpg"
 ---
 
-<img src="https://www.dropbox.com/s/sgzetiec30nanlm/francois-dufeil-cloches-sous-pression.jpg?raw=1" alt="Cloches sous pression.Francois Dufeil"> 
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-U-Carbonaru-2019.jpg" alt="U Carbonaru.Francois Dufeil"> 
 <p>&nbsp;</p> 
 
-<iframe src="https://www.youtube.com/embed/q3RsiM5OKCA" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-U-Carbonaru-feu-2019.jpg" alt="U Carbonaru.Francois Dufeil"> 
 <p>&nbsp;</p> 
 
-<img src="https://www.dropbox.com/s/ur4dyuphcnty2zc/francois-dufeil-cloches-sous-pression%20%282%29.jpg?raw=1" alt="Cloches sous pression.Francois Dufeil"> 
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-U-Carbonaru-d%C3%A9tail-vapeur-2019.jpg" alt="U Carbonaru.Francois Dufeil"> 
+<p>&nbsp;</p> 
+
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-U-Carbonaru-d%C3%A9tail-ouvert-2019.jpg" alt="U Carbonaru.Francois Dufeil"> 
+<p>&nbsp;</p> 
+
+<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-U-Carbonaru-charbon-2019.jpg" alt="U Carbonaru.Francois Dufeil"> 
+
 
 <p style="text-align:justify">
-<span style="font-style: italic;">Baguettes</span> / Charles Dubois.
-</p>
-<br>
-
-<img src="https://www.dropbox.com/s/cqqx10zh9zqvvhg/francois-dufeil-cloches-sous-pression%20%283%29.jpg?raw=1" alt="Cloches sous pression.Francois Dufeil"> 
-
-<p style="text-align:justify">
-<span style="font-style: italic;">Cloches sous pression</span> / sculpture-outil / activation sonore Charles Dubois / bouteilles de gaz, acier noir, laiton, corde chanvre, eau / 2019 / Pavillon des sources du Parc Saint Léger, <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/francois-dufeil/");return false;'>centre d’art contemporain</a>.
+<span style="font-style: italic;">U CARBONARU</span> / sculpture-outil / fabrication de charbon de bois / bouteilles de gaz, acier, bois de récupération, chêne vert / 1,40 x 2,80 x 2,70 m / 2019 / Les Charpentiers de la Corse, Morosaglia, Corse.
 </p>
 <br>
 
