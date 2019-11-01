@@ -44,7 +44,6 @@ Cr&eacute;dits Victor Moati @Rue Sedaine production.
 <br/>
 
 <span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/cloches-sous-pression/");return false;'>Résidence La Fabrique #1, Parc Saint Léger</a></span>, 2019 
-</p>
 
 <p style="text-align:justify">
 Cloches sous pression est un instrument de percussion à eau réalisé par François Dufeil durant la résidence La Fabrique #1 au Parc Saint Léger. L’oeuvre est conçue spécialement pour le musicien Charles Dubois qui l’essaie au Pavillon des sources du 1 au 4 juillet 2019. Elle est composée de 7 éléments produits à partir de bonbonnes de gaz ou d’extincteurs, parfois entières ou découpées afin d’en modifier la sonorité et le ton. L’instrument est alimenté en eau durant son utilisation et les instruments sont reliés et articulés par un ensemble de canalisations et de vannes permettant au musicien d’amplifier ou de diminuer le débit sur l’un ou l’autre des éléments.
