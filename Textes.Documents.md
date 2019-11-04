@@ -30,20 +30,7 @@ Sarah Ihler-Meyer
 <span style="font-color: #272727;">---------------</span> 
 <br/>
 
-<p style="text-align:justify">
-<span style="font-weight: bold;">Mondes compossibles</span>, 2019
-</p>
-
-<iframe src="https://www.youtube.com/embed/5o-lqYFr5AM" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<p style="text-align:right; font-size: 14px;">
-Cr&eacute;dits Victor Moati @Rue Sedaine production.
-</p>
-
-<span style="font-color: #272727;">---------------</span> 
-<br/>
-
-<span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/cloches-sous-pression/");return false;'>Résidence La Fabrique #1, Parc Saint Léger</a></span>, 2019 
+<span style="font-weight: bold;"><a href="{{ site.baseurl }}/2015/10/23/Cloches-sous-pression/">Cloches sous pression</a><a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/cloches-sous-pression/");return false;'>Résidence La Fabrique #1, Parc Saint Léger</a></span>, 2019 
 
 <p style="text-align:justify">
 <span style="font-style: italic;"><a href="{{ site.baseurl }}/2015/10/23/Cloches-sous-pression/">Cloches sous pression</a></span>  est un instrument de percussion à eau réalisé par François Dufeil durant la résidence <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/cloches-sous-pression/");return false;'>La Fabrique #1</a> au Parc Saint Léger. L’oeuvre est conçue spécialement pour le musicien Charles Dubois qui l’essaie au Pavillon des sources du 1 au 4 juillet 2019. Elle est composée de 7 éléments produits à partir de bonbonnes de gaz ou d’extincteurs, parfois entières ou découpées afin d’en modifier la sonorité et le ton. L’instrument est alimenté en eau durant son utilisation et les instruments sont reliés et articulés par un ensemble de canalisations et de vannes permettant au musicien d’amplifier ou de diminuer le débit sur l’un ou l’autre des éléments.
