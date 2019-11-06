@@ -31,7 +31,7 @@ preview: https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/im
 </p>
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">T&eacute;l&eacute;charger la proposition de loi</span> <a href="#" onclick='window.open("https://www.dropbox.com/s/xjqeob8yl6g9rm4/Proposition-de-loi.pdf?raw=1");return false;'>[PDF]</a>
+<span style="font-weight: bold;">T&eacute;l&eacute;charger la proposition de loi</span> <a href="{{ 'images/Proposition-de-loi.pdf' | relative_url }}">[PDF]</a>
 </p>
 
 
