@@ -6,18 +6,10 @@ permalink: /expositions/
 
 <p style="text-align:justify">
 <br />
-EN COURS
-<br>
-<br><span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.moly-sabata.com/2019/10/francois-dufeil-marine-wallon/");return false;'>RÉSIDENCE MOLY-SABATA</a></span>, avec Marine Wallon, Sablons (38)
-</p>
-
-
-
-<p style="text-align:justify">
-<br />
 <br>
 2019
 <br>
+<br><span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.moly-sabata.com/2019/10/francois-dufeil-marine-wallon/");return false;'>RÉSIDENCE MOLY-SABATA</a></span>, avec Marine Wallon, Sablons (38)
 <br><span style="font-weight: bold;">CLOCHES SOUS PRESSION</span>, activation sonore de Charles Dubois, Pavillon des Sources, <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/cloches-sous-pression/");return false;'>Centre d’art contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://art-utopia.fr/francois-dufeil/");return false;'>RÉSIDENCE UTOPIA</a>, <a href="#" onclick='window.open("http://www.lescharpentiersdelacorse.com/l-entreprise-et-l-art-charpentiers-de-la-corse-13-fr.html");return false;'>LES CHARPENTIERS DE LA CORSE</a></span>, avec <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>le collectif Le Wonder</a>, Morosaglia (20)
 <br><span style="font-weight: bold;">CLÔTURE 06 / 2016 - 06 / 2019</span>, exposition collective, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75) 
