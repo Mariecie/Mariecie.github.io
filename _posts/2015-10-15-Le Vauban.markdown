@@ -12,14 +12,6 @@ preview: https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/im
 </p>
 <br>
 
-<img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/Le-Vauban-2017%20(2).jpg" alt="Le Vauban.Fran&ccedil;ois Dufeil">
-
-<p style="text-align:justify">
-Fabrication d'une fonderie issue de modèles open source, afin de produire une monnaie obsidionale / bouteilles de gaz, extincteurs, bois / 1200 x 800 x 2100 mm / 2017.
-</p>
-<br> 
-
-
 <img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/Le-Vauban-2017%20(3).jpg" alt="Le Vauban.Fran&ccedil;ois Dufeil">
 <p>&nbsp;</p>
 
