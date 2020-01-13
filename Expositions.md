@@ -7,6 +7,15 @@ permalink: /expositions/
 <p style="text-align:justify">
 <br />
 <br>
+A VENIR
+<br> 
+<br><span style="font-weight: bold;">A spoonful of sugar</span>, exposition collective, du 31 janvier au 7 mars, Galerie Jeune Création, Komunuma, Romainville (93)
+<br><span style="font-weight: bold;">13 ème Biennale de la jeune création</span>, du 28 mars au 16 mai, Centre d'Art de La Graineterie, Houilles (78)
+<br><span style="font-weight: bold;">Cloches sous pression</span>, activation et exposition, du 16 juin au 5 juillet, Le K.A.B, Paris (75)
+
+<p style="text-align:justify">
+<br />
+<br>
 2019
 <br>
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.moly-sabata.com/2019/10/francois-dufeil-marine-wallon/");return false;'>RÉSIDENCE MOLY-SABATA</a></span>, avec Marine Wallon, Sablons (38)
