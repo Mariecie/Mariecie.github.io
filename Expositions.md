@@ -10,7 +10,7 @@ permalink: /expositions/
 A VENIR
 <br> 
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://lagraineterie.ville-houilles.fr/biennale-de-la-jeune-creation");return false;'>13ème BIENNALE DE LA JEUNE CREATION</a></span>, Centre d'Art de La Graineterie, Houilles (78)
-<br><span style="font-weight: bold;"> <a href="{{ 'images/CV-Francois-Dufeil.pdf' | relative_url }}">BOUPHONIE</span></a>, exposition collective, sur une proposition d'Otto Max Stingl, Le 6B, Saint-Denis (93).
+<br><span style="font-weight: bold;"> <a href="{{ 'images/DP_bouphonie_6B_V2.pdf' | relative_url }}">BOUPHONIE</span></a>, exposition collective, sur une proposition d'Otto Max Stingl, Le 6B, Saint-Denis (93).
 <br><span style="font-weight: bold;"><a href="{{ site.baseurl }}/2015/10/23/Cloches-sous-pression/">CLOCHES SOUS PRESSION</a></span>, activation et exposition, du 16 juin au 5 juillet, Le K.A.B, Paris (75)
 
 <p style="text-align:justify">
