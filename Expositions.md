@@ -11,13 +11,25 @@ A VENIR
 <br> 
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://lagraineterie.ville-houilles.fr/biennale-de-la-jeune-creation");return false;'>13ème BIENNALE DE LA JEUNE CREATION</a></span>, Centre d'Art de La Graineterie, Houilles (78)
 <br><span style="font-weight: bold;"><a href="{{ 'images/DP_bouphonie_6B_V2.pdf' | relative_url }}">BOUPHONIE</a></span>, exposition collective, sur une proposition d'Otto Max Stingl, Le 6B, Saint-Denis (93).
-<br><span style="font-weight: bold;"><a href="{{ site.baseurl }}/2015/10/23/Cloches-sous-pression/">CLOCHES SOUS PRESSION</a></span>, activation et exposition, du 16 juin au 5 juillet, Le K.A.B, Paris (75)
+</p>
+
+<p style="text-align:justify">
+<br />
+<br>
+EN COURS
+<br>
+<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://solariumtournant.com/");return false;'>RESIDENCE SOLARIUM TOURNANT</a></span>, Villa Rubaud, Aix-les-Bains (73) 
+</p>
+
+
+
 
 <p style="text-align:justify">
 <br />
 <br>
 2020
 <br>
+<br><span style="font-weight: bold;">SANS SURSIS</span>, exposition collective, Wonder/Zénith, Nanterre (92)
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://www.facebook.com/events/1060201924337678/");return false;'>A SPOONFUL OF SUGAR</a></span>, exposition collective, Galerie Jeune Création, Komunuma, Romainville (93)
 </p>
 
