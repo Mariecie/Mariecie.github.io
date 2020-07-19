@@ -3,7 +3,7 @@
 layout: post
 title:  "MOULIN A FEU"
 date:   2015-10-25 15:39:40
-preview: "https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/moulin-a-feu-preview.png"
+preview: "https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/images/moulin-a-feu-preview.jpg"
 ---
 
 <img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/Moulin à feu_2020_Production Moly-Sabata_crédits photo François Dufeil'.jpg" alt="Moulin a feu.Francois Dufeil"> 
