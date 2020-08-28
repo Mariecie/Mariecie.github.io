@@ -15,7 +15,7 @@ preview: "https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/i
 <img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil.Presse.a.poussiere.activation2020.jpg" alt="Un feu, Une brique.Francois Dufeil"> 
 
 <p style="text-align:justify">
-Vue d'atelier, négatif à la cire d'abeille, par Marine Wallon <a href="#" onclick='window.open("http://www.salondemontrouge.com/1039-francois-dufeil.htm");return false;'>64e Salon de Montrouge</a>.
+Vue d'atelier, négatif à la cire d'abeille, par Marine Wallon, <a href="#" onclick='window.open("http://www.salondemontrouge.com/1039-francois-dufeil.htm");return false;'>64e Salon de Montrouge</a>.
 </p>
 <br>
 
