@@ -8,16 +8,15 @@ preview: "https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/i
 <img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-cloches-sous-pression.jpg" alt="Cloches sous pression.Francois Dufeil"> 
 <p>&nbsp;</p> 
 
+<p style="text-align:justify">
+<span style="font-style: bold;">A écouter</span> : <a href="#" onclick='window.open("https://soundcloud.com/colbra-vovago/sets/cloches-sous-pression-parc-saint-leger);return false;'>Cloches sous pression - Parc Saint Léger by Charles Dubois</a>
+<p>&nbsp;</p> 
+
 <iframe src="https://www.youtube.com/embed/KPoVRvAkVYE" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>&nbsp;</p> 
 
 <iframe src="https://www.youtube.com/embed/q3RsiM5OKCA" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>&nbsp;</p> 
-
-<p style="text-align:justify">
-<a href="#" onclick='window.open("https://soundcloud.com/colbra-vovago/sets/cloches-sous-pression-parc-saint-leger);return false;'>Cloches sous pression - Parc Saint Léger by Charles Dubois</a>
-</p>
-<br>
 
 <img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/francois-dufeil-cloches-sous-pression%20(2).jpg" alt="Cloches sous pression.Francois Dufeil"> 
 
