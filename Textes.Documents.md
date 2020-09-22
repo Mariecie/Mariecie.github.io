@@ -5,7 +5,7 @@ permalink: /textes/documents/
 ---
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">Émission Atelier A, Arte, du 16 septembre 2020</span>
+Émission <span style="font-weight: bold;">Atelier A</span>, Arte, du 16 septembre 2020
 </p>
 
 <iframe allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="100%" height="100%" src="https://www.arte.tv/player/v5/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv2%2Fconfig%2Ffr%2F094929-009-A&lang=fr&autoplay=true&mute=0"></iframe>
@@ -43,7 +43,7 @@ C’est au sein du collectif Wonder/Liebert, dont il est l’un des membres fond
 <br/>
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">Émission Bulle d'Art du 13 mai 2019 :</span> <a href="#" onclick='window.open("https://podcast.ausha.co/bulle-d-art/bba5?fbclid=IwAR0JtgmUINOGcCnIIU4FA3UGqjfvMCgK5sDvHbc9ZubKQuWcSeVB2wyyHXM");return false;'>[n°40] La BIG Bulle d'Art n°5 : spécial Salon de Montrouge</a>
+Émission <span style="font-weight: bold;">Bulle d'Art</span> du 13 mai 2019 : <a href="#" onclick='window.open("https://podcast.ausha.co/bulle-d-art/bba5?fbclid=IwAR0JtgmUINOGcCnIIU4FA3UGqjfvMCgK5sDvHbc9ZubKQuWcSeVB2wyyHXM");return false;'>[n°40] La BIG Bulle d'Art n°5 : spécial Salon de Montrouge</a>
 </p>
 <p style="text-align:justify">
 <span style="font-weight: bold;">Écoutez l'émission</span> <a href="#" onclick='window.open("https://file.ausha.co/pxfy9yXBomaozVmNk3zMbj08cHvB3KnFsOtlnC1I.mp3?token=jpkj5_qI2BH9EkhKNmTy9w&expires=1560435581");return false;'>[Podcast]</a>
