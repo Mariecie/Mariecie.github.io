@@ -4,8 +4,17 @@ title:
 permalink: /textes/documents/
 ---
 
-Texte de Florian Gaité, <span style="font-weight: bold;"><a href="#" onclick='window.open("https://lagraineterie.ville-houilles.fr/biennale-de-la-jeune-creation");return false;'>Biennale de la jeune création</a></span>, La Graineterie – centre d’art contemporain de Houilles, 2020 
+<p style="text-align:justify">
+<span style="font-weight: bold;">Émission Atelier A, Arte, du 16 septembre 2020</span>
+</p>
 
+<iframe allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="100%" height="100%" src="https://www.arte.tv/player/v5/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv2%2Fconfig%2Ffr%2F094929-009-A&lang=fr&autoplay=true&mute=0"></iframe>
+
+
+<span style="font-color: #272727;">---------------</span> 
+<br/>
+
+Texte de Florian Gaité, <span style="font-weight: bold;"><a href="#" onclick='window.open("https://lagraineterie.ville-houilles.fr/biennale-de-la-jeune-creation");return false;'>Biennale de la jeune création</a></span>, La Graineterie – centre d’art contemporain de Houilles, 2020 
 
 <p style="text-align:justify">
 Ancien aspirant Compagnon du Devoir, membre du collectif Wonder, François Dufeil a placé le savoir-faire artisanal et son partage au cœur de sa démarche. Par le détournement d’objets industriels et le déplacement de gestes ouvriers (plomberie, soudure, couture…), il produit des pièces qui échappent à la logique productiviste au profit de modes d’activation alternatifs, propres aux situations d’urgence ou à une économie autogérée. Une Boudineuse qui devient ustensile de cuisine ou une bouteille de gaz qui sert de Fonderie somnolente dé-fonctionnalisent ces objets premiers pour les assigner à de nouveaux usages, le plus souvent collectifs : cuisiner, faire de la musique, recycler des déchets ou frapper une monnaie. La bonbonne, qui articule l’inoffensivité d’un objet domestique à la dangerosité de la bombe artisanale, est exemplaire d’une démarche qui investit des formes agressives pour les destiner à des utilisations pratiques plus généreuses. Conçue comme un « système d’émancipation », autonome et low tech, chaque œuvre tient ainsi davantage de l’outil, activable par le seul corps, que de la machine aliénante. Dans l’installation présentée, une éolienne, entièrement réalisée à la main, alimente en énergie un moteur vidé de son système électrique. Reliée par un conduit à un four (à la fois fonderie, forge et four à céramique), elle lui fournit l’oxygène nécessaire à la combustion du feu. Ayant servi au préalable à cuire de la brasque (argile, charbon de bois pilé, paille), ce vase d’expansion remodelé porte les traces de carbonisation qui ont abimé sa peinture. Dans une dernière pièce, François Dufeil élabore un système de filtration de terre, composé de trois éléments en céramique, dont deux façonnés au colombin, une technique ancestrale qu’il se réapproprie. Servant à recueillir et à épurer la matière humide, fournie par un chauffe-eau reconverti en malaxeur de boue, la sculpture permet de produire une argile qui peut ensuite passer au four, bouclant le système de résonance qui relie les pièces entre elles. 
