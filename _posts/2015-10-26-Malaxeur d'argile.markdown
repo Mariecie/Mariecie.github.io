@@ -15,10 +15,6 @@ preview: "https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/i
 <p>&nbsp;</p> 
 
 <img src="https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/images/Francois-Dufeil-Malaxeur-detail++-2020.jpg" alt="Malaxeur d'argile.Francois Dufeil"> 
-<p>&nbsp;</p> 
-
-
-
 
 <p style="text-align:justify">
 <span style="font-style: italic;">Malaxeur d'argile</span> / sculpture-outil / 
