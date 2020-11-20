@@ -8,7 +8,9 @@ permalink: /textes/documents/
 Émission <span style="font-weight: bold;">Parole aux associations</span> sur RCF, du 31 octobre 2020 : <a href="#" onclick='window.open("https://rcf.fr/vie-quotidienne/vie-pratique/solarium-tournant-aix-les-bains");return false;'>Solarium tournant - Aix-les-Bains</a>
 </p>
 
-<iframe src="https://rcf.fr/embed/2501884" frameborder="0" width="100%" height="220" ></iframe>
+<p style="text-align:justify">
+<span style="font-weight: bold;">Écoutez l'émission</span> <a href="#" onclick='window.open("https://rcf.fr/embed/2501884");return false;'>[Podcast]</a>
+</p>
 
 <br/>
 <span style="font-color: #272727;">---------------</span> 
