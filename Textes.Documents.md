@@ -5,10 +5,20 @@ permalink: /textes/documents/
 ---
 
 <p style="text-align:justify">
+Émission <span style="font-weight: bold;">Parole aux associations</span> sur RCF, du 31 octobre 2020 : <a href="#" onclick='window.open("https://rcf.fr/vie-quotidienne/vie-pratique/solarium-tournant-aix-les-bains");return false;'>Solarium tournant - Aix-les-Bains</a>
+</p>
+
+<iframe src="https://rcf.fr/embed/2501884" frameborder="0" width="100%" height="220" ></iframe>
+
+<br/>
+<span style="font-color: #272727;">---------------</span> 
+<br/>
+
+<p style="text-align:justify">
 Émission <span style="font-weight: bold;">Atelier A</span>, Arte, du 16 septembre 2020
 </p>
 
-<iframe src="https://www.arte.tv/player/v5/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv2%2Fconfig%2Ffr%2F094929-009-A&lang=fr&autoplay=true&mute=0"> width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://www.arte.tv/player/v5/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv2%2Fconfig%2Ffr%2F094929-009-A&lang=fr&autoplay=true&mute=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <br/>
 <span style="font-color: #272727;">---------------</span> 
@@ -46,7 +56,7 @@ C’est au sein du collectif Wonder/Liebert, dont il est l’un des membres fond
 Émission <span style="font-weight: bold;">Bulle d'Art</span> du 13 mai 2019 : <a href="#" onclick='window.open("https://podcast.ausha.co/bulle-d-art/bba5?fbclid=IwAR0JtgmUINOGcCnIIU4FA3UGqjfvMCgK5sDvHbc9ZubKQuWcSeVB2wyyHXM");return false;'>[n°40] La BIG Bulle d'Art n°5 : spécial Salon de Montrouge</a>
 </p>
 <p style="text-align:justify">
-<span style="font-weight: bold;">Écoutez l'émission</span> <a href="#" onclick='window.open("https://file.ausha.co/pxfy9yXBomaozVmNk3zMbj08cHvB3KnFsOtlnC1I.mp3?token=jpkj5_qI2BH9EkhKNmTy9w&expires=1560435581");return false;'>[Podcast]</a>
+<span style="font-weight: bold;">Écoutez l'émission</span> <a href="#" onclick='window.open("https://file.ausha.co/pxfy9yXBomaozVmNk3zMbj08cHvB3KnFsOtlnC1I.mp3?token=C6Y4qd83D-et1lXfiP2zlg&expires=1605914380");return false;'>[Podcast]</a>
 </p>
 
 <span style="font-color: #272727;">---------------</span> 
