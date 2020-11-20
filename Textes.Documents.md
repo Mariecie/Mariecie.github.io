@@ -34,12 +34,14 @@ Ancien aspirant Compagnon du Devoir, membre du collectif Wonder, François Dufei
 fg
 </p>
 
+<br/>
 <span style="font-color: #272727;">---------------</span> 
 <br/>
 
 Interview <span style="font-weight: bold;"><a href="#" onclick='window.open("http://asiancurator.com/francois-dufeil/
 ");return false;'>Asian Curator</a></span>, 2020
 
+<br/>
 <span style="font-color: #272727;">---------------</span> 
 <br/>
 
@@ -51,6 +53,7 @@ Opposer des contre-dispositifs aux dispositifs, se réapproprier les moyens de p
 C’est au sein du collectif Wonder/Liebert, dont il est l’un des membres fondateurs, actuellement situé dans une ancienne entreprise de Bagnolet et régulièrement menacé d’expulsion pour cause de réaménagement urbain, que François Dufeil conçoit ses pièces depuis plusieurs années. Prenant la forme d’un système de défense Vauban, la structure en acier ornée de cyprès intitulée Fièvre obsidoniale (2017) semble directement répondre à cette situation, celle d’un urbanisme qui, sous couvert d’amélioration des conditions d’existence, est en réalité conçu, consciemment ou non, comme dispositif de régulation et de normalisation des comportements. Participant de cette logique de réappropriation, Fonderie somnolente (2017), Boudineuse et Pilon à vapeur (2018) sont des sculptures-outils respectivement destinées à fondre, extruder et pulvériser de la matière. Fabriquées à partir d’éléments de récupération, elles peuvent à leur tour engendrer de nouvelles pièces, comme par exemple une monnaie d’urgence (Mise en circulation, 2016), mais aussi servir à d’autres artistes librement invités à en faire usage. Inscrites dans des chaînes de production et de coopération constamment renouvelées, les œuvres de François Dufeil génèrent ainsi leur propre écosystème, toujours perméable au dehors.
 </p>
 
+<br/>
 <span style="font-color: #272727;">---------------</span> 
 <br/>
 
@@ -61,6 +64,7 @@ C’est au sein du collectif Wonder/Liebert, dont il est l’un des membres fond
 <span style="font-weight: bold;">Écoutez l'émission</span> <a href="#" onclick='window.open("https://file.ausha.co/pxfy9yXBomaozVmNk3zMbj08cHvB3KnFsOtlnC1I.mp3?token=C6Y4qd83D-et1lXfiP2zlg&expires=1605914380");return false;'>[Podcast]</a>
 </p>
 
+<br/>
 <span style="font-color: #272727;">---------------</span> 
 <br/>
 
