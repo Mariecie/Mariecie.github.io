@@ -10,7 +10,7 @@ permalink: /expositions/
 <br>
 EN COURS
 <br>
-<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://lagraineterie.ville-houilles.fr/biennale-de-la-jeune-creation");return false;'>13ème BIENNALE DE LA JEUNE CREATION</a></span>, du 19 septembre au 7 novembre 2020, Centre d'Art de La Graineterie, Houilles (78)  - <a href="{{ 'images/Flyer_Houille_2020.pdf' | relative_url }}">FLYER</a> - 
+<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://solariumtournant.com/");return false;'>BIENNALE DE L'ARCHITECTURE DISPARUE - CHAPITRE 1</a></span>, du 10 octobre au 29 novembre 2020, Aix-les-Bains (73)  
 </p>
 
 <p style="text-align:justify">
@@ -18,9 +18,10 @@ EN COURS
 <br>
 A VENIR
 <br>
-<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://solariumtournant.com/");return false;'>BIENNALE DE L'ARCHITECTURE DISPARUE - CHAPITRE 1</a></span>, du 10 octobre au 29 novembre 2020, Aix-les-Bains (73)  
 <br><span style="font-weight: bold;"><a href="{{ 'images/DP_bouphonie_6B_V2.pdf' | relative_url }}">BOUPHONIE</a></span>, exposition collective, sur une proposition d'Otto Max Stingl, Le 6B, Saint-Denis (93).
 <br><span style="font-weight: bold;"><a href="{{ site.baseurl }}/2015/10/23/Cloches-sous-pression/">CLOCHES SOUS PRESSION</a></span>, activation et exposition, Le K.A.B, Paris (75)
+<br><span style="font-weight: bold;">ETOILES DISTANTES</a></span>, exposition collective du FRAC des Pays de la Loire, commissaire associé Franck Balland, Galerie 5, Angers (49)
+<br><span style="font-weight: bold;">71e édition de JEUNE CREATION</a></span>, La Chaufferie / Fondation Fiminco, Romainville (93)  
 </p>
 
 <p style="text-align:justify">
@@ -28,6 +29,8 @@ A VENIR
 <br>
 2020
 <br>
+<br><span style="font-weight: bold;">CHARDON ROULANT VITESSE ARDANTE</span>, Nuit Blanche 2020, Wonder/Fortin, Clichy (92)
+<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://lagraineterie.ville-houilles.fr/biennale-de-la-jeune-creation");return false;'>13ème BIENNALE DE LA JEUNE CREATION</a></span>,2020, Centre d'Art de La Graineterie, Houilles (78)  - <a href="{{ 'images/Flyer_Houille_2020.pdf' | relative_url }}">FLYER</a> -
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://solariumtournant.com/");return false;'>RESIDENCE SOLARIUM TOURNANT</a></span>, Villa Rubaud, Aix-les-Bains (73) 
 <br><span style="font-weight: bold;">SANS SURSIS</span>, exposition collective, Wonder/Zénith, Nanterre (92)
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://www.facebook.com/events/1060201924337678/");return false;'>A SPOONFUL OF SUGAR</a></span>, exposition collective, Galerie Jeune Création, Komunuma, Romainville (93)
@@ -40,6 +43,7 @@ A VENIR
 <br>
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("http://www.moly-sabata.com/2019/10/francois-dufeil-marine-wallon/");return false;'>RÉSIDENCE MOLY-SABATA</a></span>, avec Marine Wallon, Sablons (38)
 <br><span style="font-weight: bold;"><a href="{{ site.baseurl }}/2015/10/23/Cloches-sous-pression/">CLOCHES SOUS PRESSION</a></span>, activation sonore de Charles Dubois, Pavillon des Sources, <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/cloches-sous-pression/");return false;'>Centre d’art contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
+<br><span style="font-weight: bold;">POLYCHROMIES</span>, exposition collective, Les charpentiers de la Corse, Ponte-Leccia, (20)
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://art-utopia.fr/francois-dufeil/");return false;'>RÉSIDENCE UTOPIA</a>, <a href="#" onclick='window.open("http://www.lescharpentiersdelacorse.com/l-entreprise-et-l-art-charpentiers-de-la-corse-13-fr.html");return false;'>LES CHARPENTIERS DE LA CORSE</a></span>, avec <a href="#" onclick='window.open("https://www.facebook.com/WONDER.LIEBERT/");return false;'>le collectif Le Wonder</a>, Morosaglia (20)
 <br><span style="font-weight: bold;">CLÔTURE 06 / 2016 - 06 / 2019</span>, exposition collective, galerie <a href="#" onclick='window.open("http://arondit.com/");return false;'>Arondit</a>, Paris (75) 
 <br><span style="font-weight: bold;">LA FABRIQUE</span>, résidence proposée par Léo Guy-Denarcy, au <a href="#" onclick='window.open("http://www.parcsaintleger.fr/portfolio/francois-dufeil/");return false;'>Centre d'Art Contemporain du Parc Saint Léger</a>, Pougues-les-Eaux (58)
