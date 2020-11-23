@@ -29,7 +29,7 @@ A VENIR
 <br>
 2020
 <br>
-<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://lagraineterie.ville-houilles.fr/biennale-de-la-jeune-creation");return false;'>13ème BIENNALE DE LA JEUNE CREATION</a></span>,2020, Centre d'Art de La Graineterie, Houilles (78)  - <a href="{{ 'images/Flyer_Houille_2020.pdf' | relative_url }}">FLYER</a> -
+<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://lagraineterie.ville-houilles.fr/biennale-de-la-jeune-creation");return false;'>13ème BIENNALE DE LA JEUNE CREATION</a></span>,2020, Centre d'Art de La Graineterie, Houilles (78)
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://solariumtournant.com/");return false;'>RESIDENCE SOLARIUM TOURNANT</a></span>, Villa Rubaud, Aix-les-Bains (73) 
 <br><span style="font-weight: bold;">CHARDON ROULANT VITESSE ARDANTE</span>, Nuit Blanche 2020, Wonder/Fortin, Clichy (92)
 <br><span style="font-weight: bold;">SANS SURSIS</span>, exposition collective, Wonder/Zénith, Nanterre (92)
