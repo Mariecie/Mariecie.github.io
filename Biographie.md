@@ -34,3 +34,7 @@ Parce qu’il y a n&eacute;cessit&eacute;, ces sculptures g&eacute;n&eacute;ratr
 <p style="text-align:justify">
 <span style="font-weight: bold;">T&eacute;l&eacute;charger mon CV</span> <a href="{{ 'images/CV-Francois-Dufeil.pdf' | relative_url }}">[PDF]</a>
 </p>
+
+<p style="text-align:justify">
+<span style="font-weight: bold;">T&eacute;l&eacute;charger la revue de presse</span> <a href="{{ 'images/Revue de Presse.pdf' | relative_url }}">[PDF]</a>
+</p>
