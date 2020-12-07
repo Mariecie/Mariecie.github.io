@@ -8,14 +8,6 @@ permalink: /expositions/
 <p style="text-align:justify">
 <br />
 <br>
-EN COURS
-<br>
-<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://solariumtournant.com/");return false;'>BIENNALE DE L'ARCHITECTURE DISPARUE - CHAPITRE 1</a></span>, du 10 octobre au 29 novembre 2020, Aix-les-Bains (73)  
-</p>
-
-<p style="text-align:justify">
-<br />
-<br>
 A VENIR
 <br>
 <br><span style="font-weight: bold;"><a href="{{ 'images/DP_bouphonie_6B_V2.pdf' | relative_url }}">BOUPHONIE</a></span>, exposition collective, sur une proposition d'Otto Max Stingl, Le 6B, Saint-Denis (93).
@@ -29,6 +21,7 @@ A VENIR
 <br>
 2020
 <br>
+ <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://solariumtournant.com/");return false;'>BIENNALE DE L'ARCHITECTURE DISPARUE - CHAPITRE 1</a></span>, Aix-les-Bains (73)  
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://lagraineterie.ville-houilles.fr/biennale-de-la-jeune-creation");return false;'>13ème BIENNALE DE LA JEUNE CREATION</a></span>,2020, Centre d'Art de La Graineterie, Houilles (78)
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://solariumtournant.com/");return false;'>RESIDENCE SOLARIUM TOURNANT</a></span>, Villa Rubaud, Aix-les-Bains (73) 
 <br><span style="font-weight: bold;">CHARDON ROULANT VITESSE ARDANTE</span>, Nuit Blanche 2020, Wonder/Fortin, Clichy (92)
