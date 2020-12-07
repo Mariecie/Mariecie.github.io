@@ -4,8 +4,6 @@ title:
 permalink: /biographie/
 ---
 
-<span style="font-weight: bold;">Itin&eacute;raire</span> 
-
 <p style="text-align:justify">
 Dipl&ocirc;m&eacute; de l&#39;Ecole Nationale Sup&eacute;rieure des Arts D&eacute;coratifs de Paris (<a href="#" onclick='window.open("http://www.ensad.fr/");return false;'>ENSAD</a>), de l&#39;Ecole Sup&eacute;rieure des Beaux&ndash;Arts d&#39;Angers (<a href="#" onclick='window.open("http://angers.esba-talm.fr/");return false;'>ESBA TALM</a>) et des <a href="#" onclick='window.open("http://www.compagnons-du-devoir.com/");return false;'>Compagnons du Devoir du Tour de France</a>, Fran&ccedil;ois Dufeil, est n&eacute; en 1987 &agrave; Rennes, vit et travaille &agrave; Paris.
 </p>
@@ -32,7 +30,7 @@ Parce qu’il y a n&eacute;cessit&eacute;, ces sculptures g&eacute;n&eacute;ratr
 
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">T&eacute;l&eacute;charger mon CV</span> <a href="{{ 'images/CV-Francois-Dufeil.pdf' | relative_url }}">[PDF]</a>
+<span style="font-weight: bold;">T&eacute;l&eacute;charger le CV</span> <a href="{{ 'images/CV-Francois-Dufeil.pdf' | relative_url }}">[PDF]</a>
 </p>
 
 <p style="text-align:justify">
