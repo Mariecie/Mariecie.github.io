@@ -9,7 +9,7 @@ preview: "https://raw.githubusercontent.com/Mariecie/Mariecie.github.io/master/i
 <p>&nbsp;</p> 
 
 <p style="text-align:justify">
-<span style="font-weight: bold;">A écouter</span> : <a href="#" onclick='window.open("https://soundcloud.com/colbra-vovago/sets/cloches-sous-pression-parc-saint-leger/");return false;'>Cloches sous pression - Parc Saint Léger by Charles Dubois</a>
+<span style="font-weight: bold;">A écouter</span> : <a href="#" onclick='window.open("https://charlesdubois.bandcamp.com/album/cloches-sous-pression");return false;'>Cloches sous pression - Parc Saint Léger by Charles Dubois</a>
 <p>&nbsp;</p> 
 
 <iframe src="https://www.youtube.com/embed/KPoVRvAkVYE" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
