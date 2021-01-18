@@ -12,7 +12,7 @@ A VENIR
 <br>
 <br><span style="font-weight: bold;"><a href="{{ 'images/DP_bouphonie_6B_V2.pdf' | relative_url }}">BOUPHONIE</a></span>, exposition collective, sur une proposition d'Otto Max Stingl, Le 6B, Saint-Denis (93).
 <br><span style="font-weight: bold;"><a href="{{ site.baseurl }}/2015/10/23/Cloches-sous-pression/">CLOCHES SOUS PRESSION</a></span>, activation et exposition, Le K.A.B, Paris (75)
-<br><span style="font-weight: bold;">ETOILES DISTANTES</span>, exposition collective du FRAC des Pays de la Loire, commissaire associé Franck Balland, Galerie 5, Angers (49)
+<br><span style="font-weight: bold;">ETOILES DISTANTES</span>, exposition collective du FRAC des Pays de la Loire, commissaire associé Franck Balland, structures partenaires la Galerie 5 et Octo-Verso, Angers (49)
 <br><span style="font-weight: bold;">71e édition de JEUNE CREATION</span>, La Chaufferie / Fondation Fiminco, Romainville (93)  
 </p>
 
@@ -112,6 +112,6 @@ De Blocs Pour Quatre Mains</span>, sous le commissariat de <a href="#" onclick='
 2012
 <br>
 <br> <span style="font-weight: bold;">ART BY TELEPHONE RECALL</span>, r&eacute;alisation d'une oeuvre de <a href="#" onclick='window.open("https://fr.wikipedia.org/wiki/Dominique_Blais");return false;'>Dominique Blais</a>, Angers (49)
-<br> R&eacute;activation de l'exposition art by telephone &eacute;dit&eacute;e par le <a href="#" onclick='window.open("https://www.moma.org/");return false;'>MOMA</a> en 1969. Art by telephone recall expos&eacute;e dans quatre lieux simultan&eacute;ment (<a href="#" onclick='window.open("http://angers.esba-talm.fr/");return false;'>Esba TALM d'Angers</a>, <a href="#" onclick='window.open("http://www.capc-bordeaux.fr/");return false;'>CAPC de Bordeaux</a>, <a href="#" onclick='window.open("http://emilyharveyfoundation.org/");return false;'>The Emily Harvey Foundation de New York</a> et le <a href="#" onclick='window.open("http://www.sfai.edu/");return false;'>San Francisco Art Institute</a>)
+<br> Réactivation de l'exposition art by telephone éditée par le Museum of Contemporary Art de Chicago en 1969. Art by telephone recalled exposée dans quatre lieux simultanément (<a href="#" onclick='window.open("http://angers.esba-talm.fr/");return false;'>Esba TALM d'Angers</a>, <a href="#" onclick='window.open("http://www.capc-bordeaux.fr/");return false;'>CAPC de Bordeaux</a>, <a href="#" onclick='window.open("http://emilyharveyfoundation.org/");return false;'>The Emily Harvey Foundation de New York</a> et le <a href="#" onclick='window.open("http://www.sfai.edu/");return false;'>San Francisco Art Institute</a>)
 </p>
 
