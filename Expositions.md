@@ -54,7 +54,7 @@ A VENIR
 <br>
 2018
 <br>
-<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("https://www.enrevenantdelexpo.com/2018/09/20/tequate-lo-niktete-le-wonder-liebert-montpellier/");return false;'>TÉQUATÉ LO NIKTÉTÉ</a></span>, sous le comissariat d'Ingrid Luquet-Gad, Mécènes du sud, Montpellier (34)
+<br> <span style="font-weight: bold;"><a href="#" onclick='window.open("https://www.enrevenantdelexpo.com/2018/09/20/tequate-lo-niktete-le-wonder-liebert-montpellier/");return false;'>TÉQUATÉ LO NIKTÉTÉ</a></span>, sous le comissariat d'Ingrid Luquet-Gad, Mécènes du Sud, Montpellier (34)
 <br> <span style="font-weight: bold;">EFFET D'URGENCE</span> troisi&egrave;me opus du cycle Illusion of Erosion, commissariat <a href="#" onclick='window.open("http://andy-rankin.com/");return false;'>Andy Rankin</a>, <a href="#" onclick='window.open("https://lewonder.com/");return false;'>Wonder/Liebert</a>, Bagnolet (93)
 <br> <span style="font-weight: bold;">L'ENTRE-DEUX</span>, <a href="#" onclick='window.open("https://www.facebook.com/lagalerie.episodique");return false;'>Galerie &Eacute;pisodique</a>, Paris (75)
 <br> <span style="font-weight: bold;"><a href="#" onclick='window.open("http://loicarrez.xyz");return false;'>LOI CARREZ</a></span>, 10 m2 sous le commissariat de Juliette Nier et d'Arslane Smirnov, Paris (75)
