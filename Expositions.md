@@ -10,7 +10,6 @@ permalink: /expositions/
 <br>
 A VENIR
 <br>
-<br><span style="font-weight: bold;"><a href="{{ 'images/DP_bouphonie_6B_V2.pdf' | relative_url }}">BOUPHONIE</a></span>, exposition collective, sur une proposition d'Otto Max Stingl, Le 6B, Saint-Denis (93).
 <br><span style="font-weight: bold;"><a href="{{ site.baseurl }}/2015/10/23/Cloches-sous-pression/">CLOCHES SOUS PRESSION</a></span>, activation et exposition, Le K.A.B, Paris (75)
 <br><span style="font-weight: bold;">ETOILES DISTANTES</span>, exposition collective du FRAC des Pays de la Loire, commissaire associé Franck Balland, structures partenaires la Galerie 5 et Octo-Verso, Angers (49)
 <br><span style="font-weight: bold;">71e édition de JEUNE CREATION</span>, La Chaufferie / Fondation Fiminco, Romainville (93)  
@@ -19,9 +18,17 @@ A VENIR
 <p style="text-align:justify">
 <br />
 <br>
+2021
+<br>
+<br><span style="font-weight: bold;"><a href="{{ 'images/DP_bouphonie_6B_V2.pdf' | relative_url }}">BOUPHONIE</a></span>, exposition collective, sur une proposition d'Otto Max Stingl, Le 6B, Saint-Denis (93).
+</p>
+
+<p style="text-align:justify">
+<br />
+<br>
 2020
 <br>
- <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://solariumtournant.com/");return false;'>BIENNALE DE L'ARCHITECTURE DISPARUE - CHAPITRE 1</a></span>, Aix-les-Bains (73)  
+<br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://solariumtournant.com/");return false;'>BIENNALE DE L'ARCHITECTURE DISPARUE - CHAPITRE 1</a></span>, Aix-les-Bains (73)  
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://lagraineterie.ville-houilles.fr/biennale-de-la-jeune-creation");return false;'>13ème BIENNALE DE LA JEUNE CREATION</a></span>,2020, Centre d'Art de La Graineterie, Houilles (78)
 <br><span style="font-weight: bold;"><a href="#" onclick='window.open("https://solariumtournant.com/");return false;'>RESIDENCE SOLARIUM TOURNANT</a></span>, Villa Rubaud, Aix-les-Bains (73) 
 <br><span style="font-weight: bold;">CHARDON ROULANT VITESSE ARDANTE</span>, Nuit Blanche 2020, Wonder/Fortin, Clichy (92)
